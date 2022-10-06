@@ -1,9 +1,8 @@
-‹div id="header" align="center">
-‹img src="<div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>"width="200"
+
 <h1 align="center">Hi, I'm Adrian Infantes</h1>
 <h3 align="center"> A passionate Data Scientist from Spain. I have experience in the IT and Marketing departments of        multinationals such as HP Inc and Adidas.</h3>
 
-‹div id="badges" align="center">
+<div id="badges" align="center">
 <a href="https://twitter.com/CarlosYouDevs">
 ring sPc=-"https://https://img.shields.io/twitter/follow/infantes_adrian?style=social"
 alt="Twitter Badge" />
@@ -27,11 +26,11 @@ alt="Twitter Badge" />
 <div>
 ‹img src="https://github.com/devicons/devicon/blob/master/icons/htm15/html5-original.svg"title-"HTML5"alt="HTML"
 width="40" height="40"/>&nbsp;
-‹imgsrc="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"title="Git"**alt="Git"
+<imgsrc="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"title="Git"**alt="Git"
 width="40" height="40"/>
-‹img src="https://github.com/devicons/devicon/blob/master/icons/mysq1/mysql-plain.svg" title="Git" **alt="Git" width="40"
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysq1/mysql-plain.svg" title="Git" **alt="Git" width="40"
 height="40"/>
-‹img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"title="Git" **alt="Git"
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"title="Git" **alt="Git"
 width="40" height="40"/>
 
 </div>
