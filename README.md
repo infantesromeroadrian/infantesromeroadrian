@@ -5,6 +5,9 @@
 ---
 ### 🙋🏻‍♂️About Me
 
+![me] (https://www.instagram.com/p/BpKgxcMl0jw/?utm_source=ig_web_copy_link)
+
+
 - 🔭 I’m currently working in Lima, Peru in my own proyect Climapower and AIR Sport Solutions
 - 🌱 I’m currently expert Data Science and Marketing Consultant 
 - 👯 I’m looking to collaborate with IT companies
