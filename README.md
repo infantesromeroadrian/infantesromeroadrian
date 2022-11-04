@@ -2,12 +2,6 @@
 <h1 align="center">Hi, I'm Adrian Infantes</h1>
 <h3 align="center"> A passionate Data Scientist from Spain. I have experience in the IT and Marketing departments of        multinationals such as HP Inc and Adidas.</h3>
 
-<div id="badges" align="center">
-<a href="https://twitter.com/CarlosYouDevs">
-ring sPc=-"https://https://img.shields.io/twitter/follow/infantes_adrian?style=social"
-alt="Twitter Badge" />
-</a>
-</div>
 ---
 ### 🙋🏻‍♂️About Me
 
