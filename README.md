@@ -5,7 +5,7 @@
 ---
 ### 🙋🏻‍♂️About Me
 
-![me] (https://www.instagram.com/p/BpKgxcMl0jw/?utm_source=ig_web_copy_link)
+![me](https://user-images.githubusercontent.com/112597801/199873876-1ff67083-7079-4748-a9eb-3c09d6d6bac3.png)
 
 
 - 🔭 I’m currently working in Lima, Peru in my own proyect Climapower and AIR Sport Solutions
