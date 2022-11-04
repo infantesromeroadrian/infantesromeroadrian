@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Adrian Infantes</h1>
-<h3 align="center"> A passionate Data Scientist from Spain. I have experience in the IT and Marketing departments of        multinationals such as HP Inc and Adidas.</h3>
+<h3 align="center"> A passionate Data Scientist from Spain. I have experience in the IT and Marketing departments of multinationals such as HP Inc and Adidas.</h3>
 
 ---
 ### 🙋🏻‍♂️About Me
