@@ -35,6 +35,8 @@ width="40" height="40"/>
 
 </div>
 
+<div>
+
 ### My Stats:
 
 [! [GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=infantesromeroadrian&theme=onedark/](https://git.io/streak-stats)
