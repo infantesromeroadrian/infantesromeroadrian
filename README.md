@@ -7,11 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **Statistics, Python & Machine Learning**
+- 🌱 I’m a data scientist currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/infantesromeroadrian?tab=repositories](https://github.com/infantesromeroadrian?tab=repositories)
 
-- 💬 Ask me about **Python, Sql, Machine Learning & Power Bi**
+- 💬 Ask me about **Python, MySql, Machine Learning & Power Bi**
 
 - 📫 How to reach me **infantesromeroadrian@gmail.com**
 
