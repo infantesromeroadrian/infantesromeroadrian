@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infantesromeroadrian" alt="infantesromeroadrian" /></a> </p>
 
-- 🌱 I’m currently learning **Statistics, Python & Machine Learning**
+- 🌱 I’m currently specializing in machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/infantesromeroadrian?tab=repositories](https://github.com/infantesromeroadrian?tab=repositories)
 
