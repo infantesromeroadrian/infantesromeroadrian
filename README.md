@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/infantesromeroadrian?tab=repositories](https://github.com/infantesromeroadrian?tab=repositories)
 
-- 💬 Ask me about **Python, Sql, Machine Learning & Power Bi**
+- 💬 Ask me about **Python, Sql, Machine Learning & Data Visualitation**
 
 - 📫 How to reach me **infantesromeroadrian@gmail.com**
 
