@@ -101,7 +101,5 @@ Specialization in machine learning by MIT center in Spain
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 
 
