@@ -2,6 +2,12 @@
 Hey 👋, I'm Adrian Infantes!<br><br>Glad to see you here!<br><br>I am a software engineer with a specialization in machine learning and a master's degree in Big data and deep learning with a passion for learning, discovery and innovation. <br>I am excited to explore and tackle complex data problems and find creative solutions to improve decision-making.<br>I have extensive experience with a variety of tools for data manipulation and analysis, including Python, SQL, Docker, Git, Tableau, and PowerBi. I also have a deep understanding of data science principles such as machine learning, data visualization, data mining, and process optimization.<br><br><br>Specialization in Deep Learning by MIT center in Spain<br><br><br>infantesromeroadrian<br><br>🔭 I am currently working on my own machine learning project on health conditions in sports.<br><br>🌱 I’m currently learning machine learning in a MIT center in Madrid.<br><br>❓ Ask me about anything related to: Python, SQL, Machine Learning and Data visualization.
 
 
+🔭 I’m currently working for Green Energy company helping with Deep Learning techniques.<be>
+👯 I’m looking to collaborate on projects about Computer Vision.<be>
+🌱 I’m currently learning more and more about Computer Vision with Deep Learning techniques.<be>
+💬 Ask me about Python, TensorFlow, Sci-kit Learn, MLFlow.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adrianinfantes) 
@@ -27,5 +33,11 @@ Hey 👋, I'm Adrian Infantes!<br><br>Glad to see you here!<br><br>I am a softwa
 
 ---
 [![](https://visitcount.itsvg.in/api?id=infantesromeroadrian&icon=4&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
