@@ -96,10 +96,3 @@ También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para 
 </details>
 
 ---
-
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=infantesromeroadrian&icon=4&color=5" />
-  </a>
-</p>
