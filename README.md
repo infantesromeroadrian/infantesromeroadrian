@@ -48,12 +48,28 @@ También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=infantesromeroadrian&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=infantesromeroadrian&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=infantesromeroadrian&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=infantesromeroadrian&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<details>
+<summary>Click para expandir</summary>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=infantesromeroadrian&theme=dracula&show_icons=true&count_private=true&hide_title=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=infantesromeroadrian&theme=dracula" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infantesromeroadrian&theme=dracula&layout=compact&hide_title=true" />
+</p>
+</details>
+
+## 🏆 GitHub Trophies:
+
+<details>
+<summary>Click para expandir</summary>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=infantesromeroadrian&theme=dracula&no-frame=true&margin-w=25&margin-h=15" />
+</p>
+</details>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
