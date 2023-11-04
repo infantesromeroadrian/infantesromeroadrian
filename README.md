@@ -87,12 +87,3 @@ También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para 
 </p>
 </details>
 
-### 😂 Random Dev Meme
-<details>
-<summary>Click para ver un meme de desarrollo aleatorio</summary>
-<p align="center">
-  <img src="https://rm.up.railway.app/" width="512px" />
-</p>
-</details>
-
----
