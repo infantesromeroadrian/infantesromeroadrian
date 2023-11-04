@@ -72,16 +72,33 @@ También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para 
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<details>
+<summary>Click para ver una cita de desarrollo aleatoria</summary>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+</details>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=infantesromeroadrian&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<details>
+<summary>Click para ver mis principales contribuciones a repositorios</summary>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=infantesromeroadrian&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+</p>
+</details>
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<details>
+<summary>Click para ver un meme de desarrollo aleatorio</summary>
+<p align="center">
+  <img src="https://rm.up.railway.app/" width="512px" />
+</p>
+</details>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=infantesromeroadrian&icon=4&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=infantesromeroadrian&icon=4&color=5" />
+  </a>
+</p>
