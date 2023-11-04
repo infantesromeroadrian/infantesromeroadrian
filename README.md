@@ -15,8 +15,7 @@ Hey 👋, I'm Adrian Infantes!<br><br>Glad to see you here!<br><br>I am a softwa
 ## 📞 Contacto:
 Estoy abierto a colaboraciones y nuevas oportunidades. Siéntete libre de contactarme a través de las siguientes vías:
 
-- Email: adrian.infantes@email.com (reemplaza esto con tu dirección de correo electrónico real)
-- Teléfono: +34 123 456 789 (opcional, reemplaza esto con tu número de teléfono real si deseas compartirlo)
+- Email: infantesromeroadrian@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/adrianinfantes)
 
 También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para estar al tanto de mis últimos proyectos y publicaciones.
