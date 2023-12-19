@@ -25,7 +25,7 @@ As an experienced Machine Learning Engineer, I specialize in devising intelligen
 
 
 
-🔭 I’m currently working for Green Energy company helping with Deep Learning techniques.<br>👯 I’m looking to collaborate on projects about Computer Vision.<br>🌱 I’m currently learning more and more about Computer Vision with Deep Learning techniques.<br>💬 Ask me about Python, TensorFlow, Sci-kit Learn, MLFlow.
+🔭 I’m currently working for Green Energy company helping with Deep Learning techniques.<br>👯 I’m looking to collaborate on projects about NLP.<br>🌱 I’m currently learning more and more about Natural Language Processing with Deep Learning techniques.<br>💬 Ask me about NLP Techniques and Deep Learning.
 
 
 ## 🌐 Socials:
