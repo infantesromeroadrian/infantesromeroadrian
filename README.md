@@ -1,7 +1,27 @@
 ![Imagen de Adrian](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/main/Banner%20LinkedIn%20%20Rascacielos%20de%20noche%20Azul.png)
 
 # 💫 About Me:
-Hey 👋, I'm Adrian Infantes!<br><br>Glad to see you here!<br><br>I am a software engineer with a specialization in machine learning and a master's degree in Big data and deep learning with a passion for learning, discovery and innovation. <br>I am excited to explore and tackle complex data problems and find creative solutions to improve decision-making.<br>I have extensive experience with a variety of tools for data manipulation and analysis, including Python, SQL, Docker, Git, Tableau, and PowerBi. I also have a deep understanding of data science principles such as machine learning, data visualization, data mining, and process optimization.<br><br><br>Specialization in Deep Learning by MIT center in Spain<br><br><br>infantesromeroadrian<br><br>
+👋 Hello and Welcome to my Profile! <br>
+
+I'll keep it brief and make your journey through my profile more productive. <br>
+
+As an experienced Machine Learning Engineer, I specialize in devising intelligent solutions through the strategic implementation of Data Science, Machine Learning, and Deep Learning techniques. <br>
+
+🎯 Areas of Expertise: <br>
+
+📊 Data Science and Analysis: Harnessing the power of data to drive decisions and innovations. <br>
+💡 Machine Learning and Deep Learning: Developing predictive models and algorithms, proficient in Neural Networks, Computer Vision, and Natural Language Processing. <br>
+🤝 Collaborative Environment: I thrive in hybrid and remote work settings, bringing a meticulous eye for detail and strong analytical skills to my role. <br><br>
+
+💻 Technical Proficiency: <br><br>
+
+🐍 Programming: Proficient in Python, C++ <br>
+⚡ Big Data: Skilled in managing and analyzing large datasets using Apache Spark. <br>
+📊 Databases: Experienced in managing and optimizing SQL databases. <br>
+📈 Data Visualization: Creating impactful visual representations of data with Power BI, Looker Studio, and Dash. <br>
+🧠 Frameworks: Proficient in using Tensor Flow, PyTorch, and MLFlow to develop ML/DL models. <br>
+☁️ Cloud Computing: Familiar with cloud infrastructure, especially Azure. <br>
+<br>
 
 
 
