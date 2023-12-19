@@ -1,4 +1,4 @@
-![Imagen de Adrian](https://i.imgur.com/9KOQMk5.jpg)
+![Imagen de Adrian](https://imgur.com/a/lKdyN5j)
 
 # 💫 About Me:
 Hey 👋, I'm Adrian Infantes!<br><br>Glad to see you here!<br><br>I am a software engineer with a specialization in machine learning and a master's degree in Big data and deep learning with a passion for learning, discovery and innovation. <br>I am excited to explore and tackle complex data problems and find creative solutions to improve decision-making.<br>I have extensive experience with a variety of tools for data manipulation and analysis, including Python, SQL, Docker, Git, Tableau, and PowerBi. I also have a deep understanding of data science principles such as machine learning, data visualization, data mining, and process optimization.<br><br><br>Specialization in Deep Learning by MIT center in Spain<br><br><br>infantesromeroadrian<br><br>
