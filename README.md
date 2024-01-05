@@ -1,4 +1,4 @@
-![Imagen de Adrian]([https://github.com/infantesromeroadrian/infantesromeroadrian/blob/main/Banner%20LinkedIn%20%20Rascacielos%20de%20noche%20Azul.png](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/7a76f06675f7a60c9cedf3681e7a54dd494be4f9/DALL%C2%B7E%202023-12-25%2017.27.44%20-%20A%20GitHub%20portfolio%20cover%20image%20in%20a%20Minecraft-inspired%20style%2C%20focusing%20on%20machine%20learning%20and%20AI%20models.%20The%20image%20should%20feature%20pixelated%2C%20block-st.png))
+![Imagen de Adrian]([https://github.com/infantesromeroadrian/infantesromeroadrian/blob/e6e4e7b389394902c67fad6b921765efa36a22ab/Banner%20LinkedIn%20%20Rascacielos%20de%20noche%20Azul.png])
 
 # 💫 About Me:
 👋 Hello and Welcome to my Profile! <br>
