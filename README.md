@@ -1,4 +1,4 @@
-![Imagen de Adrian]([https://github.com/infantesromeroadrian/infantesromeroadrian/blob/e6e4e7b389394902c67fad6b921765efa36a22ab/Banner%20LinkedIn%20%20Rascacielos%20de%20noche%20Azul.png])
+![Imagen de Adrian](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/e6e4e7b389394902c67fad6b921765efa36a22ab/Banner%20LinkedIn%20%20Rascacielos%20de%20noche%20Azul.png)
 
 # 💫 About Me:
 👋 Hello and Welcome to my Profile! <br>
@@ -23,14 +23,10 @@ As an experienced Machine Learning Engineer, I specialize in devising intelligen
 ☁️ Cloud Computing: Familiar with cloud infrastructure, especially Azure. <br>
 <br>
 
-
-
 🔭 I’m currently working for Green Energy company helping with Deep Learning techniques.<br>👯 I’m looking to collaborate on projects about NLP.<br>🌱 I’m currently learning more and more about Natural Language Processing with Deep Learning techniques.<br>💬 Ask me about NLP Techniques and Deep Learning.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianinfantes)
-
 
 ## 📞 Contacto:
 Estoy abierto a colaboraciones y nuevas oportunidades. Siéntete libre de contactarme a través de las siguientes vías:
@@ -38,7 +34,6 @@ Estoy abierto a colaboraciones y nuevas oportunidades. Siéntete libre de contac
 - Email: infantesromeroadrian@gmail.com
 
 También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para estar al tanto de mis últimos proyectos y publicaciones.
-
 
 # 💻 Tech Stack:
 ## Lenguajes de Programación:
@@ -66,7 +61,6 @@ También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para 
 ## Certificaciones:
 ![Microsoft Azure AI Engineer Associate](https://img.shields.io/badge/Microsoft%20Azure%20AI%20Engineer%20Associate-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-
 # 📊 GitHub Stats:
 
 <details>
@@ -89,8 +83,6 @@ También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para 
 </p>
 </details>
 
-
-
 ### ✍️ Random Dev Quote
 <details>
 <summary>Click para ver una cita de desarrollo aleatoria</summary>
@@ -106,4 +98,3 @@ También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para 
   <img src="https://github-contributor-stats.vercel.app/api?username=infantesromeroadrian&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </p>
 </details>
-
