@@ -1,4 +1,6 @@
-![Imagen de Adrian](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/e6e4e7b389394902c67fad6b921765efa36a22ab/Banner%20LinkedIn%20%20Rascacielos%20de%20noche%20Azul.png)
+![Imagen de Adrian](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/320f6bccf8e0b25f5cd0567cc45c8b040c681317/DALL%C2%B7E%202024-01-06%2016.22.17%20-%20Craft%20a%20LinkedIn%20banner%20with%20the%20dimensions%201536%20x%20396%20pixels%2C%20featuring%20an%20animated%20character%20in%20a%20distinct%203D%20Pixar%20animation%20style%2C%20resembling%20the%20%20(2).png
+)
+
 
 # 💫 About Me:
 👋 Hello and Welcome to my Profile! <br>
