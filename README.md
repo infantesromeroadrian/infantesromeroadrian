@@ -9,6 +9,8 @@ I'll keep it brief and make your journey through my profile more productive. <br
 
 As an experienced Machine Learning Engineer, I specialize in devising intelligent solutions through the strategic implementation of Data Science, Machine Learning, and Deep Learning techniques. <br>
 
+![Animation GIF](https://media.giphy.com/media/FnsyaPjzV7ZdNLB9sx/giphy.gif)
+
 🎯 Areas of Expertise: <br>
 
 📊 Data Science and Analysis: Harnessing the power of data to drive decisions and innovations. <br>
