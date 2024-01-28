@@ -27,7 +27,7 @@ As an experienced Machine Learning Engineer, I specialize in devising intelligen
 
 🔭 I’m currently working for Green Energy company helping with Deep Learning techniques.<br>👯 I’m looking to collaborate on projects about NLP.<br>🌱 I’m currently learning more and more about Natural Language Processing with Deep Learning techniques.<br>💬 Ask me about NLP Techniques and Deep Learning.
 
-![Salesforce Bear Working](https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif)
+![Programador GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 ## 🌐 Socials:
