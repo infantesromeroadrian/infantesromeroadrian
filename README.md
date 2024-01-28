@@ -27,9 +27,9 @@ As an experienced Machine Learning Engineer, I specialize in devising intelligen
 ☁️ Cloud Computing: Familiar with cloud infrastructure, especially Azure. <br>
 <br>
 
-🔭 I’m currently working for Green Energy company helping with Deep Learning techniques.<br>👯 I’m looking to collaborate on projects about NLP.<br>🌱 I’m currently learning more and more about Natural Language Processing with Deep Learning techniques.<br>💬 Ask me about NLP Techniques and Deep Learning.
-
 ![Programador GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+🔭 I’m currently working for Green Energy company helping with Deep Learning techniques.<br>👯 I’m looking to collaborate on projects about NLP.<br>🌱 I’m currently learning more and more about Natural Language Processing with Deep Learning techniques.<br>💬 Ask me about NLP Techniques and Deep Learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianinfantes)
