@@ -34,26 +34,26 @@ As an experienced Machine Learning Engineer, I specialize in devising intelligen
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianinfantes)
 
-## 📞 Contacto:
-Estoy abierto a colaboraciones y nuevas oportunidades. Siéntete libre de contactarme a través de las siguientes vías:
+## 📞 Contact:
+I am open to collaborations and new opportunities. Feel free to contact me through the following ways:
 
 - Email: infantesromeroadrian@gmail.com
 
-También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para estar al tanto de mis últimos proyectos y publicaciones.
+You can follow me [GitHub](https://github.com/infantesromeroadrian) to keep up to date with my latest projects and publications.
 
 # 💻 Tech Stack:
-## Lenguajes de Programación:
+## Programming languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
 
-## Cloud y DevOps:
+## Cloud & DevOps:
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## Frameworks y Herramientas de Análisis:
+## Frameworks & Analysis Tools:
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
@@ -61,7 +61,7 @@ También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23FFBF00.svg?style=for-the-badge&logo=Computer%20Vision&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-%230072C6.svg?style=for-the-badge&logo=NLP&logoColor=white)
 
-## Hardware y Otros:
+## Hardware & Other:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## Certificaciones:
@@ -91,7 +91,7 @@ También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para 
 
 ### ✍️ Random Dev Quote
 <details>
-<summary>Click para ver una cita de desarrollo aleatoria</summary>
+<summary>Click to see a random development quote</summary>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
@@ -99,7 +99,7 @@ También puedes seguirme [GitHub](https://github.com/infantesromeroadrian) para 
 
 ### 🔝 Top Contributed Repo
 <details>
-<summary>Click para ver mis principales contribuciones a repositorios</summary>
+<summary>Click to see my main contributions to repositories</summary>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=infantesromeroadrian&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </p>
