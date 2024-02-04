@@ -11,22 +11,27 @@ As an experienced Machine Learning Engineer, I specialize in devising intelligen
 
 ![Animation GIF](https://media.giphy.com/media/FnsyaPjzV7ZdNLB9sx/giphy.gif)
 
-🎯 Areas of Expertise: <br>
+🎯 Areas of Expertise:<br>
 
-📊 Data Science and Analysis: Harnessing the power of data to drive decisions and innovations. <br>
-💡 Machine Learning and Deep Learning: Developing predictive models and algorithms, proficient in Neural Networks, Computer Vision, and Natural Language Processing. <br>
-🤝 Collaborative Environment: I thrive in hybrid and remote work settings, bringing a meticulous eye for detail and strong analytical skills to my role. <br><br>
+Advanced Artificial Intelligence: 🧠 Design and development of AI solutions that adapt and learn from the environment to continuously improve, applying machine learning models, deep learning and optimisation algorithms to overcome technical and operational obstacles.<br>
 
-💻 Technical Proficiency: <br><br>
+Machine Learning and Deep Learning: 🤖 Expertise in creating predictive models and personalised recommendation systems, using neural networks to analyse complex data and generate actionable insights.<br>
 
-🐍 Programming: Proficient in Python, C++ <br>
-⚡ Big Data: Skilled in managing and analyzing large datasets using Apache Spark. <br>
-📊 Databases: Experienced in managing and optimizing SQL databases. <br>
-📈 Data Visualization: Creating impactful visual representations of data with Power BI, Looker Studio, and Dash. <br>
-🧠 Frameworks: Proficient in using Tensor Flow, PyTorch, and MLFlow to develop ML/DL models. <br>
-☁️ Cloud Computing: Familiar with cloud infrastructure, especially Azure. <br>
-<br>
+Natural Language Processing (NLP): 💬 Extensive NLP expertise, from information extraction and sentiment analysis to natural language generation and intelligent chatbots, to create interfaces that facilitate clear and effective communications between machines and users.<br>
 
+Collaboration and Leadership in AI Projects: 👥 Proven ability to work efficiently in hybrid and remote environments, leading multidisciplinary teams towards the success of innovative artificial intelligence projects. <br><br>
+
+💻 Technology Staff:<br><br>
+
+🐍 Programming: Python and Kotlin for dynamic and robust solutions.<br>
+⚡ Big Data: Expertise in Apache Spark to handle massive volumes of data.<br>
+📚 Databases: SQL proficiency for data management and optimisation.<br>
+🎨 Data Visualisation: Creating stunning visualisations with Power BI, Looker Studio and Dash.
+AI Frameworks: Deep knowledge in Tensor Flow, PyTorch and MLFlow, especially in NLP.<br>
+☁️ Cloud Computing: Experience in implementing and managing solutions in Azure.<br>
+📦 Containers and Orchestration: Advanced use of Docker 🐳 and Kubernetes ⚓ for efficient and scalable deployments.<br>
+🌐 Software Development and Collaboration: Expert handling of Git for version control and collaboration.<br>
+🔗 AI and Language Generation: Experience with LangChain and OpenAI, exploring frontiers in conversational and creative AI.<br><br>
 ![Programador GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 🔭 I’m currently working for Green Energy company helping with Deep Learning techniques.<br>👯 I’m looking to collaborate on projects about NLP.<br>🌱 I’m currently learning more and more about Natural Language Processing with Deep Learning techniques.<br>💬 Ask me about NLP Techniques and Deep Learning.
