@@ -1,5 +1,4 @@
-![Imagen de Adrian](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/320f6bccf8e0b25f5cd0567cc45c8b040c681317/DALL%C2%B7E%202024-01-06%2016.22.17%20-%20Craft%20a%20LinkedIn%20banner%20with%20the%20dimensions%201536%20x%20396%20pixels%2C%20featuring%20an%20animated%20character%20in%20a%20distinct%203D%20Pixar%20animation%20style%2C%20resembling%20the%20%20(2).png
-)
+![Imagen de Adrian](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/3235161b92ac0d7308601ec3ed64ba84a2fb8b52/PHOTO-2024-02-10-01-25-43.jpg)
 
 
 # 💫 About Me:
