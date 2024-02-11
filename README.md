@@ -20,6 +20,8 @@ Natural Language Processing (NLP): 💬 Extensive NLP expertise, from informatio
 
 Collaboration and Leadership in AI Projects: 👥 Proven ability to work efficiently in hybrid and remote environments, leading multidisciplinary teams towards the success of innovative artificial intelligence projects. <br><br>
 
+![Programador GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 💻 Technology Staff:<br><br>
 
 🐍 Programming: Python and Kotlin for dynamic and robust solutions.<br>
@@ -33,8 +35,6 @@ AI Frameworks: Deep knowledge in Tensor Flow, PyTorch and MLFlow, especially in 
 🔗 AI and Language Generation: Experience with LangChain and OpenAI, exploring frontiers in conversational and creative AI.<br><br>
 
 ![AIStaff GIF](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/cfecb4fd069776a23b9d6ebcbad50f7b7b0f21b2/AIStaff.drawio.svg)
-
-![Programador GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 🔭 I’m currently working for Green Energy company helping with Deep Learning techniques.<br>👯 I’m looking to collaborate on projects about NLP.<br>🌱 I’m currently learning more and more about Natural Language Processing with Deep Learning techniques.<br>💬 Ask me about NLP Techniques and Deep Learning.
 
