@@ -98,3 +98,4 @@ You can follow me [GitHub](https://github.com/infantesromeroadrian) to keep up t
 </details>
 
 <img src="https://raw.githubusercontent.com/infantesromeroadrian/infantesromeroadrian/output/snake.svg" alt="Snake animation" />
+
