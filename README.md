@@ -1,39 +1,28 @@
 ![Imagen de Adrian](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/3235161b92ac0d7308601ec3ed64ba84a2fb8b52/PHOTO-2024-02-10-01-25-43.jpg)
 
-
 # 💫 About Me:
 👋 Hello and Welcome to my Profile! <br>
-
 I'll keep it brief and make your journey through my profile more productive. <br>
-
 As an experienced Machine Learning Engineer, I specialize in devising intelligent solutions through the strategic implementation of Data Science, Machine Learning, and Deep Learning techniques. <br>
-
 ![Animation GIF](https://media.giphy.com/media/FnsyaPjzV7ZdNLB9sx/giphy.gif)
 
 🎯 Areas of Expertise:<br>
-
-Advanced Artificial Intelligence: 🧠 Design and development of AI solutions that adapt and learn from the environment to continuously improve, applying machine learning models, deep learning and optimisation algorithms to overcome technical and operational obstacles.<br>
-
-Machine Learning and Deep Learning: 🤖 Expertise in creating predictive models and personalised recommendation systems, using neural networks to analyse complex data and generate actionable insights.<br>
-
-Natural Language Processing (NLP): 💬 Extensive NLP expertise, from information extraction and sentiment analysis to natural language generation and intelligent chatbots, to create interfaces that facilitate clear and effective communications between machines and users.<br>
-
-Collaboration and Leadership in AI Projects: 👥 Proven ability to work efficiently in hybrid and remote environments, leading multidisciplinary teams towards the success of innovative artificial intelligence projects. <br><br>
-
+- Advanced Artificial Intelligence: 🧠 Design and development of AI solutions that adapt and learn from the environment to continuously improve, applying machine learning models, deep learning and optimisation algorithms to overcome technical and operational obstacles.<br>
+- Machine Learning and Deep Learning: 🤖 Expertise in creating predictive models and personalised recommendation systems, using neural networks to analyse complex data and generate actionable insights.<br>
+- Natural Language Processing (NLP): 💬 Extensive NLP expertise, from information extraction and sentiment analysis to natural language generation and intelligent chatbots, to create interfaces that facilitate clear and effective communications between machines and users.<br>
+- Collaboration and Leadership in AI Projects: 👥 Proven ability to work efficiently in hybrid and remote environments, leading multidisciplinary teams towards the success of innovative artificial intelligence projects. <br><br>
 ![Programador GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 💻 Technology Staff:<br><br>
-
-🐍 Programming: Python and Kotlin for dynamic and robust solutions.<br>
-⚡ Big Data: Expertise in Apache Spark to handle massive volumes of data.<br>
-📚 Databases: SQL proficiency for data management and optimisation.<br>
-🎨 Data Visualisation: Creating stunning visualisations with Power BI, Looker Studio and Dash.
-AI Frameworks: Deep knowledge in Tensor Flow, PyTorch and MLFlow, especially in NLP.<br>
-☁️ Cloud Computing: Experience in implementing and managing solutions in Azure.<br>
-📦 Containers and Orchestration: Advanced use of Docker 🐳 and Kubernetes ⚓ for efficient and scalable deployments.<br>
-🌐 Software Development and Collaboration: Expert handling of Git for version control and collaboration.<br>
-🔗 AI and Language Generation: Experience with LangChain and OpenAI, exploring frontiers in conversational and creative AI.<br><br>
-
+- 🐍 Programming: Python and Kotlin for dynamic and robust solutions.<br>
+- ⚡ Big Data: Expertise in Apache Spark to handle massive volumes of data.<br>
+- 📚 Databases: SQL proficiency for data management and optimisation.<br>
+- 🎨 Data Visualisation: Creating stunning visualisations with Power BI, Looker Studio and Dash.<br>
+- AI Frameworks: Deep knowledge in Tensor Flow, PyTorch and MLFlow, especially in NLP.<br>
+- ☁️ Cloud Computing: Experience in implementing and managing solutions in Azure.<br>
+- 📦 Containers and Orchestration: Advanced use of Docker 🐳 and Kubernetes ⚓ for efficient and scalable deployments.<br>
+- 🌐 Software Development and Collaboration: Expert handling of Git for version control and collaboration.<br>
+- 🔗 AI and Language Generation: Experience with LangChain and OpenAI, exploring frontiers in conversational and creative AI.<br><br>
 
 🔭 I’m currently working for Green Energy company helping with Deep Learning techniques.<br>👯 I’m looking to collaborate on projects about NLP.<br>🌱 I’m currently learning more and more about Natural Language Processing with Deep Learning techniques.<br>💬 Ask me about NLP Techniques and Deep Learning.
 
@@ -42,7 +31,6 @@ AI Frameworks: Deep knowledge in Tensor Flow, PyTorch and MLFlow, especially in 
 
 ## 📞 Contact:
 I am open to collaborations and new opportunities. Feel free to contact me through the following ways:
-
 - Email: infantesromeroadrian@gmail.com
 
 You can follow me [GitHub](https://github.com/infantesromeroadrian) to keep up to date with my latest projects and publications.
@@ -74,7 +62,6 @@ You can follow me [GitHub](https://github.com/infantesromeroadrian) to keep up t
 ![Microsoft Azure AI Engineer Associate](https://img.shields.io/badge/Microsoft%20Azure%20AI%20Engineer%20Associate-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 # 📊 GitHub Stats:
-
 <details>
 <summary>Click para expandir</summary>
 <p align="center">
@@ -87,7 +74,6 @@ You can follow me [GitHub](https://github.com/infantesromeroadrian) to keep up t
 </details>
 
 ## 🏆 GitHub Trophies:
-
 <details>
 <summary>Click para expandir</summary>
 <p align="center">
@@ -111,3 +97,4 @@ You can follow me [GitHub](https://github.com/infantesromeroadrian) to keep up t
 </p>
 </details>
 
+<img src="https://raw.githubusercontent.com/infantesromeroadrian/infantesromeroadrian/output/snake.svg" alt="Snake animation" />
