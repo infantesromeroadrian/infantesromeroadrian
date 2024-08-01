@@ -107,9 +107,3 @@ Follow me on [GitHub](https://github.com/infantesromeroadrian) to stay updated o
 </details>
 
 ---
-
-### Snake Animation Fix
-To fix the snake animation, make sure you are using the correct path and the image is being generated properly. Here’s the corrected code:
-
-```markdown
-![Snake animation](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/output/github-contribution-grid-snake.svg)
