@@ -61,6 +61,7 @@ Follow me on [GitHub](https://github.com/infantesromeroadrian) to stay updated o
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![MLFlow](https://img.shields.io/badge/MLFlow-%23E65513.svg?style=for-the-badge&logo=MLFlow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%230072C6.svg?style=for-the-badge&logo=LangChain&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23FFBF00.svg?style=for-the-badge&logo=Computer%20Vision&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-%230072C6.svg?style=for-the-badge&logo=NLP&logoColor=white)
 
