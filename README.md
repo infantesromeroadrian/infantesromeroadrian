@@ -126,7 +126,7 @@ I design, deploy, and harden end-to-end AI systems: from datasets and fine-tunin
 ---
 
 ## 🧭 Education & Academic Path
-- **Dual Degree (ongoing)** — Cybersecurity & Hacking + Mechatronics Engineering (MSMK, 2025 →). Final year via Pearson agreement, Napier University, Edinburgh).
+- **Dual Degree (ongoing)** — Cybersecurity & Hacking + Mechatronics Engineering. Final year via Pearson agreement, Napier University, Edinburgh).
 - **MIOTI — GenAI & Deep Learning** (2020–2021) ·
 - **MIOTI — Big Data & Data Science** (2023–2024)
 - **B.Sc. in Software Engineering** (UCJC) ·
