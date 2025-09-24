@@ -1,106 +1,129 @@
-<!-- Foto de Perfil -->
-![Adrian's Image](https://github.com/infantesromeroadrian/infantesromeroadrian/blob/3235161b92ac0d7308601ec3ed64ba84a2fb8b52/PHOTO-2024-02-10-01-25-43.jpg)
+<!-- Story Edition · GitHub Profile of Adrián Infantes -->
 
-# 💫 About Me:
+<p align="center">
+  <img src="https://github.com/infantesromeroadrian/infantesromeroadrian/blob/3235161b92ac0d7308601ec3ed64ba84a2fb8b52/PHOTO-2024-02-10-01-25-43.jpg" alt="Adrián Infantes" width="220" />
+</p>
 
-👋 **Hello and Welcome to My Profile!**  
-**🤖 Senior AI and Cybersecurity Engineer | Specialist in LLMs & Generative AI Architectures**  
-Designer of advanced cognitive systems focused on innovation with language models (LLMs), strategic fine-tuning, and scalable architectures for enterprise applications. Expert in cybersecurity applied to AI environments, ensuring the integrity and protection of intelligent systems.
-
-![Animation GIF](https://media.giphy.com/media/FnsyaPjzV7ZdNLB9sx/giphy.gif)
-
----
-
-## 🛠️ Technical Arsenal
-
-### 🔧 Core Competencies
-
-| **AI/ML Expertise**             | **Technical Skills**      | **Infrastructure**       | **Cybersecurity**            |
-|---------------------------------|---------------------------|--------------------------|------------------------------|
-| • LLM Fine-tuning (GPT/LLaMA)   | • Python/C++ Expert       | • AWS/Azure Cloud        | • Vulnerability Assessment   |
-| • RAG Systems Design            | • PyTorch/TensorFlow      | • Kubernetes/Docker      | • Penetration Testing        |
-| • Multi-modal AI Systems        | • LangChain/LlamaIndex    | • Microservices Architecture | • AI Security               |
-| • NLP Pipeline Optimization     | • Spark/MLFlow            | • Vector Databases       | • OSINT (Open Source Intelligence) |
+<h1 align="center">Adrián Infantes · AI Engineer → AI Solutions Architect</h1>
+<p align="center">
+  <strong>LLMs, RAG, Agentic Systems, AI Security, Infra</strong><br/>
+  <a href="mailto:infantesromeroadrian@gmail.com">Email</a> · 
+  <a href="https://www.linkedin.com/in/adrianinfantes">LinkedIn</a> · 
+  <a href="https://github.com/infantesromeroadrian">GitHub</a>
+</p>
 
 ---
 
-## 🚀 Key Specializations
-
-### 🔍 Advanced LLM Engineering
-
-![NLP](https://img.shields.io/badge/NLP-%230072C6.svg?style=for-the-badge&logo=NLP&logoColor=white)
-
-- Fine-tuning models (GPT-4, LLaMA 2, Mistral)
-- Vector DB-powered RAG architectures (Pinecone, Milvus)
-- Multi-LLM orchestration for low-latency inference
-
-### ⚙️ AI System Architecture
-
-![CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
-
-- GPU-optimized inference pipelines (TensorRT, Triton)
-- Distributed training systems (PyTorch FSDP, DeepSpeed)
-- Auto-scaling LLM serving platforms
-
-### 🌐 Generative AI Ecosystems
-
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)
-
-- Autonomous agent frameworks development
-- Enterprise prompt engineering (DSPy)
-- Multi-modal integration (Vision+Speech+Text)
-
-### 🔒 AI Cybersecurity
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=for-the-badge&logo=Cybersecurity&logoColor=white)
-
-- Risk assessment and mitigation in AI systems
-- Implementation of security protocols in machine learning models
-- Threat analysis and data protection in AI environments
+## 📽️ Tráiler
+Diseño, despliegue y defensa de sistemas inteligentes end-to-end.  
+LLMs orquestados, RAG verificado, pipelines GPU y seguridad aplicada a IA.  
+Objetivo: Arquitecto de Soluciones de IA con criterio de producción.
 
 ---
 
-## 💡 Highlighted Projects
+## 🧭 Cronología (estudios + carrera)
 
-| Project                     | Tech Stack                     | Impact                          |
-|-----------------------------|--------------------------------|---------------------------------|
-| **Enterprise RAG System**   | LLaMA 2 + Pinecone + FastAPI   | 98% QA accuracy at scale        |
-| **Medical LLM Fine-tuning** | BioMedNLP + LoRA               | 40% performance boost           |
-| **Multi-tenant Inference**  | Kubernetes + vLLM              | 5x cost reduction               |
-| **Commercial AI Agents**    | GPT-4 + LangChain + Azure      | Automation of business processes with AI |
+### 🎓 Formación académica (hitos)
+- **MIOTI — Big Data & Data Science** · *sept 2020 → jul 2021*  
+- **MIOTI — GenAI & Deep Learning** · *ene 2023 → jul 2024*  
+- **Universidad Camilo José Cela — Grado en Ingeniería de Software**  
+- **U-tad — CFGS DAM (Online)**  
+> Sube diplomas o insignias aquí como imágenes breves de 600-800 px.
 
-![Programmer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+### 💼 Experiencia profesional
+- **Capgemini — Data Scientist (Jr.)** · *ene 2017 → feb 2020*  
+  ETL multi-fuente, modelos predictivos y paneles ejecutivos.  
+  Resultados: +20% precisión en forecast; −30% ciclo análisis; −35% tiempos SQL.  
+- **Ecoembes — Machine Learning Engineer (Mid)** · *feb 2020 → ene 2024*  
+  NLP conversacional 2.0, visión por computador para reciclaje, optimización logística.  
+  Resultados: 89% intent accuracy; +15% visión; −25% km y −18% CO₂ (2022–2023).  
+- **BBVA AI Factory — AI/ML Engineer (Sr.)** · *ene 2024 → presente*  
+  Arquitecturas LLM para banca, RAG, *serving* GPU, MLOps enterprise.  
+  Resultados: +15% precisión; −20% latencia; 99.95% SLA; −40% TTM; +22% AUC-ROC.
+
+> Fuente: extractos y logros verificados en CV/LinkedIn. Coloca capturas concisas por etapa (máx. 1 por hito).
+
+
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🎬 Acto I — Boot Sequence (2020–2021)
+**Del dato a la plataforma.**  
+- ETL y data lakes productivos; primeras APIs de inferencia.  
+- MLOps: MLflow, versionado y retraining automático.  
+> `TODO: imagen` snapshot de pipeline MLflow y métrica de retrain.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-plastic&logo=linkedin)](https://www.linkedin.com/in/adrianinfantes)
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-plastic&logo=gmail)](mailto:infantesromeroadrian@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-plastic&logo=github)](https://github.com/infantesromeroadrian)
+## 🛰️ Acto II — RAG y Agentes (2021–2023)
+**De respuestas a decisiones.**  
+- RAG con re-ranking, LangChain/LangGraph, DSPy.  
+- Observabilidad, *evals* y trazabilidad por defecto.  
+- Métricas: 98% cobertura QA en dominio; p95 < 300 ms en agente multilingüe.  
+> `TODO: diagrama` arquitectura RAG + agentes con tool-use controlado.
+
+## 🛡️ Acto III — AI Security (2023–2024)
+**La IA también se ataca y se defiende.**  
+- Red teaming de prompts, aislamiento de contexto y *policy enforcement*.  
+- Guardrails, rate limiting, auditoría y firmas de artefactos.  
+> `TODO: imagen` “blue team for LLMs” con breve checklist.
+
+## ⚙️ Acto IV — Infra GPU y Escala (2024–presente)
+**Latencia, throughput y coste bajo control.**  
+- vLLM/Triton, cuantización GGUF/AWQ, TensorRT y FSDP/DeepSpeed.  
+- Multi-tenant autoscaling en K8s; −40% OPEX cloud.  
+> `TODO: screenshot` tablero de métricas (latencia, TPS, coste).
+
+## 🤖 Acto V — Mechatronics Arc (2025 →)
+**Del token al actuador.**  
+- Orquestación de percepción-decisión-acción; visión + voz + texto.  
+- Validación programática de comandos y telemetría segura.  
+> `TODO: clip` demo corto de control de agente/robot simulado o real.
 
 ---
 
-## 📊 Engineering Metrics
+## 🧩 Misiones con impacto
+| Capítulo | Stack | Resultado |
+|---|---|---|
+| **Enterprise RAG** | LLaMA/Pinecone/FastAPI + re-rankers | 98% cobertura QA |
+| **Medical FT** | BioMedNLP + LoRA + evals | +40% en set clínico |
+| **Multi-tenant Serving** | K8s + vLLM + autoscaling | 5× reducción de coste |
+| **AI Agents Ops** | GPT + LangChain + Tools | p95 < 300 ms |
 
+> Repos “con historia”:  
+> - `TODO` RAG-Ops  
+> - `TODO` Agents-Secure  
+> - `TODO` vLLM-Serving
+
+---
+
+## 🛠️ Toolkit
+**Core**: LLM fine-tuning, RAG, agentes, NLP pipelines  
+**Infra**: PyTorch/TensorFlow, CUDA/TensorRT, Docker/K8s, vLLM/Triton  
+**Data/Tracing**: Spark, MLflow, vector DBs, evals y observabilidad  
+**AI Security**: threat modeling, hardening, prompt controls, policies
+
+---
+
+## 🎯 Roadmap inmediato
+- Shift-left security en pipelines de IA.  
+- Zero-downtime para *serving* de agentes multi-tenant.  
+- Integración robótica con verificación de comandos.
+
+---
+
+## 📊 Stats
 <details>
-<summary>📈 GitHub Analytics</summary>
+<summary>Ver métricas</summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infantesromeroadrian&theme=dark&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infantesromeroadrian&layout=compact&theme=dark)
-</details>
-
-<details>
-<summary>🏆 Achievements</summary>
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=infantesromeroadrian&theme=onedark&no-frame=true&margin-w=15)
+
 </details>
 
 ---
 
-## 🏅 Certifications
+## 🤝 Colabora
+Consultoría en arquitectura LLM, RAG, agentes y MLOps.  
+Hardening de sistemas de IA y AI red teaming.  
+PoCs medibles con criterios de producción.
 
-![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-%230078D4?style=for-the-plastic&logo=microsoft-azure)
-![Microsoft Azure AI Engineer Associate](https://img.shields.io/badge/Azure%20AI%20Engineer%20Associate-%230078D4?style=for-the-plastic&logo=microsoft-azure)
-![NVIDIA Certified](https://img.shields.io/badge/NVIDIA%20Accelerated-%2376B900?style=for-the-plastic&logo=nvidia)
-![TMC Security OSINT](https://img.shields.io/badge/TMC%20Security%20OSINT-%23FF0000?style=for-the-plastic&logo=security)
