@@ -25,25 +25,25 @@ Diseño, despliegue y defensa de sistemas de IA end-to-end: desde el dataset y e
 **Contexto**: plataformas de LLM para banca, RAG con fuentes internas, cumplimiento y observabilidad enterprise.
 
 - **Tecnologías**
-  - **Modelos/Tokenización**: GPT/LLama/Mistral, tiktoken, re-rankers.
-  - **RAG/Agentes**: LangChain, LangGraph, DSPy, Pinecone/Milvus, FAISS.
-  - **Serving/Infra**: vLLM, Triton Inference Server, TensorRT, CUDA; Docker, Kubernetes, HPA.
-  - **MLOps/Observabilidad**: MLflow, Prometheus/Grafana, OpenTelemetry, Evals automáticas.
+  - **Modelos/Tokenización**: GPT/LLaMA/Mistral, tiktoken, re-rankers.
+  - **RAG/Agentes**: LangChain, LangGraph, DSPy; Pinecone/Milvus/FAISS.
+  - **Serving/Infra**: vLLM, Triton, TensorRT, CUDA; Docker, Kubernetes, HPA.
+  - **MLOps/Observabilidad**: MLflow, Prometheus/Grafana, OpenTelemetry, evals automáticas.
   - **Seguridad**: guardrails, policy enforcement, aislamiento de contexto, rate limiting, auditoría.
 
 - **Para qué lo usé**
-  - Construir **RAG verificable** con re-rank y grounding para documentación y datos financieros.
+  - Construir **RAG verificable** con re-ranking y grounding para documentación y datos financieros.
   - Orquestar **agentes con herramientas** de backoffice manteniendo latencia p95 estable.
   - Desplegar **serving GPU multi-tenant** con autoscaling y control de costes.
-  - Implantar **observabilidad**: métricas de precisión, cobertura, latencia y calidad de citaciones.
+  - Implantar **observabilidad**: precisión, cobertura, latencia y calidad de citaciones.
   - Endurecer la plataforma LLM frente a inyección de prompts y exfiltración de contexto.
 
 - **Qué conseguí (métricas)**
-  - **+15%** de precisión en tareas de análisis financiero con LLMs.
-  - **−20%** de tiempos de procesamiento en pipelines críticos.
-  - **99.9%** de uptime en la capa de serving y **p95 < 300 ms** en consultas comunes.
-  - **−40%** en tiempo-a-producción de nuevos flujos (pipeline estandarizado y CI/CD).
-  - **+22%** AUC-ROC en detección de fraude usando features textuales y semánticas.
+  - **+15%** precisión en análisis financiero con LLMs.
+  - **−20%** tiempos de procesamiento en pipelines críticos.
+  - **99.9%** uptime en serving y **p95 < 300 ms** en consultas comunes.
+  - **−40%** time-to-market de nuevos flujos (pipeline estandarizado + CI/CD).
+  - **+22%** AUC-ROC en detección de fraude con features textuales/semánticas.
 
 > `TODO: imagen` diagrama simple de arquitectura (RAG + agente + vLLM + observabilidad).  
 > `TODO: enlace` a repos públicos/redactados o one-pagers técnicos.
@@ -54,28 +54,31 @@ Diseño, despliegue y defensa de sistemas de IA end-to-end: desde el dataset y e
 **Contexto**: proyectos de analítica y ML en clientes enterprise; NLP inicial y tabular clásico.
 
 - **Tecnologías**
-  - **ML clásico**: scikit-learn, XGBoost, pipelines de validación y MLflow.
-  - **Datos**: SQL, PySpark, orquestación de ETL, data lakes.
+  - **ML clásico**: scikit-learn, XGBoost, pipelines de validación, MLflow.
+  - **Datos**: SQL, PySpark, orquestación ETL, data lakes.
   - **NLP**: spaCy/NLTK, primeros embeddings y clasificación de intención.
   - **Visualización/BI**: Dash/Plotly, Power BI; reporting parametrizado.
 
 - **Para qué lo usé**
   - Construir **ETL multi-fuente** con validación y control de calidad.
-  - Entrenar **modelos de scoring** y forecasting con trazabilidad y versionado.
+  - Entrenar **modelos de scoring** y forecasting con trazabilidad/versionado.
   - Desarrollar **NLP de intención** para routing y autoservicio básico.
 
 - **Qué conseguí (métricas)**
-  - **+20%** de precisión en forecast de demanda frente a base lineal.
-  - **−30%** del ciclo de análisis mensual con dashboards automatizados.
-  - **−35%** de tiempos en consultas críticas SQL tras optimización y particionado.
+  - **+20%** precisión en forecast de demanda frente a baseline.
+  - **−30%** ciclo de análisis mensual con dashboards automatizados.
+  - **−35%** tiempos en consultas SQL críticas tras optimización/particionado.
 
-> `TODO: imagen` pipeline MLflow/ETL con KPIs antes/después.
+<!-- Imagen solicitada por el autor -->
+<p align="center">
+  <img src="Generated%20Image%20September%2024,%202025%20-%2010_14PM.png" alt="Capgemini — Visual resumen" width="820"/>
+</p>
 
 ---
 
 ### Proyectos personales y consultoría (selectos)
 - **Enterprise RAG (OSS/PoC)**: LLaMA 2/3 + Pinecone + FastAPI + re-rankers.  
-  Resultado: **98%** de cobertura QA en dominio, grounding y citaciones trazables.  
+  Resultado: **98%** cobertura QA en dominio, grounding y citaciones trazables.  
 - **Medical LLM Fine-tuning**: BioMedNLP + LoRA + evals.  
   Resultado: **+40%** en set de validación clínica específico.  
 - **Multi-tenant GPU Serving**: Kubernetes + vLLM + autoscaling.  
@@ -90,9 +93,9 @@ Diseño, despliegue y defensa de sistemas de IA end-to-end: desde el dataset y e
 
 ## 🧠 Especialidades técnicas
 - **LLMs**: fine-tuning/QLoRA, prompts robustos (DSPy), agentes con herramientas.  
-- **RAG**: pipelines con re-ranking, fusión de resultados, verificación y citación.  
+- **RAG**: re-ranking, fusión de resultados, verificación y citación.  
 - **Serving en GPU**: vLLM, Triton, TensorRT, cuantización (GGUF/AWQ), batching/throughput.  
-- **MLOps**: MLflow, pruebas de regresión de calidad, evals automáticas, trazabilidad end-to-end.  
+- **MLOps**: MLflow, regresión de calidad, evals automáticas, trazabilidad end-to-end.  
 - **AI Security**: threat modeling LLM, guardrails, aislamiento de contexto, auditoría y políticas.  
 - **Datos**: SQL, PySpark, validación y linaje; vector DBs (Pinecone, Milvus, FAISS).
 
@@ -141,7 +144,7 @@ Diseño, despliegue y defensa de sistemas de IA end-to-end: desde el dataset y e
 ---
 
 ## 🗺️ Roadmap inmediato
-- Shift-left security en pipelines de IA (políticas y pruebas de seguridad desde desarrollo).  
+- Shift-left security en pipelines de IA.  
 - Zero-downtime para agentes multi-tenant en K8s con autoscaling inteligente.  
 - Integración mecatrónica: percepción-decisión-acción con validación programática.
 
