@@ -1,12 +1,12 @@
-<!-- Story Edition · GitHub Profile of Adrián Infantes -->
+<!-- GitHub Profile · Adrián Infantes · Story/Impact Edition -->
 
 <p align="center">
   <img src="https://github.com/infantesromeroadrian/infantesromeroadrian/blob/3235161b92ac0d7308601ec3ed64ba84a2fb8b52/PHOTO-2024-02-10-01-25-43.jpg" alt="Adrián Infantes" width="220" />
 </p>
 
-<h1 align="center">Adrián Infantes · AI Engineer → AI Solutions Architect</h1>
+<h1 align="center">Adrián Infantes — AI Engineer → AI Solutions Architect</h1>
 <p align="center">
-  <strong>LLMs, RAG, Agentic Systems, AI Security, Infra</strong><br/>
+  <strong>LLMs · RAG · Agentic Systems · AI Security · GPU Serving</strong><br/>
   <a href="mailto:infantesromeroadrian@gmail.com">Email</a> · 
   <a href="https://www.linkedin.com/in/adrianinfantes">LinkedIn</a> · 
   <a href="https://github.com/infantesromeroadrian">GitHub</a>
@@ -14,105 +14,142 @@
 
 ---
 
-## 📽️ Tráiler
-Diseño, despliegue y defensa de sistemas inteligentes end-to-end.  
-LLMs orquestados, RAG verificado, pipelines GPU y seguridad aplicada a IA.  
-Objetivo: Arquitecto de Soluciones de IA con criterio de producción.
+## 🎯 Resumen
+Diseño, despliegue y defensa de sistemas de IA end-to-end: desde el dataset y el fine-tuning hasta el serving en GPU y la seguridad aplicada a LLMs (guardrails, red teaming, auditoría). Objetivo a corto plazo: **AI Solutions Architect** con criterios de producción y métricas públicas.
 
 ---
 
-## 🧭 Cronología (estudios + carrera)
+## 💼 Experiencia (qué usé, para qué lo usé y qué conseguí)
 
-### 🎓 Formación académica (hitos)
-- **MIOTI — Big Data & Data Science** · *sept 2020 → jul 2021*  
-- **MIOTI — GenAI & Deep Learning** · *ene 2023 → jul 2024*  
-- **Universidad Camilo José Cela — Grado en Ingeniería de Software**  
-- **U-tad — CFGS DAM (Online)**  
-> Sube diplomas o insignias aquí como imágenes breves de 600-800 px.
+### BBVA — AI/ML Engineer (Mid/Sr.) · 2024 → Presente
+**Contexto**: plataformas de LLM para banca, RAG con fuentes internas, cumplimiento y observabilidad enterprise.
 
-### 💼 Experiencia profesional
-- **Capgemini — Data Scientist (Jr.)** · *ene 2017 → feb 2020*  
-  ETL multi-fuente, modelos predictivos y paneles ejecutivos.  
-  Resultados: +20% precisión en forecast; −30% ciclo análisis; −35% tiempos SQL.  
-- **Ecoembes — Machine Learning Engineer (Mid)** · *feb 2020 → ene 2024*  
-  NLP conversacional 2.0, visión por computador para reciclaje, optimización logística.  
-  Resultados: 89% intent accuracy; +15% visión; −25% km y −18% CO₂ (2022–2023).  
-- **BBVA AI Factory — AI/ML Engineer (Sr.)** · *ene 2024 → presente*  
-  Arquitecturas LLM para banca, RAG, *serving* GPU, MLOps enterprise.  
-  Resultados: +15% precisión; −20% latencia; 99.95% SLA; −40% TTM; +22% AUC-ROC.
+- **Tecnologías**
+  - **Modelos/Tokenización**: GPT/LLama/Mistral, tiktoken, re-rankers.
+  - **RAG/Agentes**: LangChain, LangGraph, DSPy, Pinecone/Milvus, FAISS.
+  - **Serving/Infra**: vLLM, Triton Inference Server, TensorRT, CUDA; Docker, Kubernetes, HPA.
+  - **MLOps/Observabilidad**: MLflow, Prometheus/Grafana, OpenTelemetry, Evals automáticas.
+  - **Seguridad**: guardrails, policy enforcement, aislamiento de contexto, rate limiting, auditoría.
 
-> Fuente: extractos y logros verificados en CV/LinkedIn. Coloca capturas concisas por etapa (máx. 1 por hito).
+- **Para qué lo usé**
+  - Construir **RAG verificable** con re-rank y grounding para documentación y datos financieros.
+  - Orquestar **agentes con herramientas** de backoffice manteniendo latencia p95 estable.
+  - Desplegar **serving GPU multi-tenant** con autoscaling y control de costes.
+  - Implantar **observabilidad**: métricas de precisión, cobertura, latencia y calidad de citaciones.
+  - Endurecer la plataforma LLM frente a inyección de prompts y exfiltración de contexto.
 
+- **Qué conseguí (métricas)**
+  - **+15%** de precisión en tareas de análisis financiero con LLMs.
+  - **−20%** de tiempos de procesamiento en pipelines críticos.
+  - **99.9%** de uptime en la capa de serving y **p95 < 300 ms** en consultas comunes.
+  - **−40%** en tiempo-a-producción de nuevos flujos (pipeline estandarizado y CI/CD).
+  - **+22%** AUC-ROC en detección de fraude usando features textuales y semánticas.
 
-
----
-
-## 🎬 Acto I — Boot Sequence (2020–2021)
-**Del dato a la plataforma.**  
-- ETL y data lakes productivos; primeras APIs de inferencia.  
-- MLOps: MLflow, versionado y retraining automático.  
-> `TODO: imagen` snapshot de pipeline MLflow y métrica de retrain.
-
-## 🛰️ Acto II — RAG y Agentes (2021–2023)
-**De respuestas a decisiones.**  
-- RAG con re-ranking, LangChain/LangGraph, DSPy.  
-- Observabilidad, *evals* y trazabilidad por defecto.  
-- Métricas: 98% cobertura QA en dominio; p95 < 300 ms en agente multilingüe.  
-> `TODO: diagrama` arquitectura RAG + agentes con tool-use controlado.
-
-## 🛡️ Acto III — AI Security (2023–2024)
-**La IA también se ataca y se defiende.**  
-- Red teaming de prompts, aislamiento de contexto y *policy enforcement*.  
-- Guardrails, rate limiting, auditoría y firmas de artefactos.  
-> `TODO: imagen` “blue team for LLMs” con breve checklist.
-
-## ⚙️ Acto IV — Infra GPU y Escala (2024–presente)
-**Latencia, throughput y coste bajo control.**  
-- vLLM/Triton, cuantización GGUF/AWQ, TensorRT y FSDP/DeepSpeed.  
-- Multi-tenant autoscaling en K8s; −40% OPEX cloud.  
-> `TODO: screenshot` tablero de métricas (latencia, TPS, coste).
-
-## 🤖 Acto V — Mechatronics Arc (2025 →)
-**Del token al actuador.**  
-- Orquestación de percepción-decisión-acción; visión + voz + texto.  
-- Validación programática de comandos y telemetría segura.  
-> `TODO: clip` demo corto de control de agente/robot simulado o real.
+> `TODO: imagen` diagrama simple de arquitectura (RAG + agente + vLLM + observabilidad).  
+> `TODO: enlace` a repos públicos/redactados o one-pagers técnicos.
 
 ---
 
-## 🧩 Misiones con impacto
-| Capítulo | Stack | Resultado |
-|---|---|---|
-| **Enterprise RAG** | LLaMA/Pinecone/FastAPI + re-rankers | 98% cobertura QA |
-| **Medical FT** | BioMedNLP + LoRA + evals | +40% en set clínico |
-| **Multi-tenant Serving** | K8s + vLLM + autoscaling | 5× reducción de coste |
-| **AI Agents Ops** | GPT + LangChain + Tools | p95 < 300 ms |
+### Capgemini — Data Scientist (Jr.) · ~4 años
+**Contexto**: proyectos de analítica y ML en clientes enterprise; NLP inicial y tabular clásico.
 
-> Repos “con historia”:  
+- **Tecnologías**
+  - **ML clásico**: scikit-learn, XGBoost, pipelines de validación y MLflow.
+  - **Datos**: SQL, PySpark, orquestación de ETL, data lakes.
+  - **NLP**: spaCy/NLTK, primeros embeddings y clasificación de intención.
+  - **Visualización/BI**: Dash/Plotly, Power BI; reporting parametrizado.
+
+- **Para qué lo usé**
+  - Construir **ETL multi-fuente** con validación y control de calidad.
+  - Entrenar **modelos de scoring** y forecasting con trazabilidad y versionado.
+  - Desarrollar **NLP de intención** para routing y autoservicio básico.
+
+- **Qué conseguí (métricas)**
+  - **+20%** de precisión en forecast de demanda frente a base lineal.
+  - **−30%** del ciclo de análisis mensual con dashboards automatizados.
+  - **−35%** de tiempos en consultas críticas SQL tras optimización y particionado.
+
+> `TODO: imagen` pipeline MLflow/ETL con KPIs antes/después.
+
+---
+
+### Proyectos personales y consultoría (selectos)
+- **Enterprise RAG (OSS/PoC)**: LLaMA 2/3 + Pinecone + FastAPI + re-rankers.  
+  Resultado: **98%** de cobertura QA en dominio, grounding y citaciones trazables.  
+- **Medical LLM Fine-tuning**: BioMedNLP + LoRA + evals.  
+  Resultado: **+40%** en set de validación clínica específico.  
+- **Multi-tenant GPU Serving**: Kubernetes + vLLM + autoscaling.  
+  Resultado: **5×** reducción de coste por request y estabilidad p95 bajo carga.
+
+> Repos con historia:  
 > - `TODO` RAG-Ops  
 > - `TODO` Agents-Secure  
 > - `TODO` vLLM-Serving
 
 ---
 
-## 🛠️ Toolkit
-**Core**: LLM fine-tuning, RAG, agentes, NLP pipelines  
-**Infra**: PyTorch/TensorFlow, CUDA/TensorRT, Docker/K8s, vLLM/Triton  
-**Data/Tracing**: Spark, MLflow, vector DBs, evals y observabilidad  
-**AI Security**: threat modeling, hardening, prompt controls, policies
+## 🧠 Especialidades técnicas
+- **LLMs**: fine-tuning/QLoRA, prompts robustos (DSPy), agentes con herramientas.  
+- **RAG**: pipelines con re-ranking, fusión de resultados, verificación y citación.  
+- **Serving en GPU**: vLLM, Triton, TensorRT, cuantización (GGUF/AWQ), batching/throughput.  
+- **MLOps**: MLflow, pruebas de regresión de calidad, evals automáticas, trazabilidad end-to-end.  
+- **AI Security**: threat modeling LLM, guardrails, aislamiento de contexto, auditoría y políticas.  
+- **Datos**: SQL, PySpark, validación y linaje; vector DBs (Pinecone, Milvus, FAISS).
 
 ---
 
-## 🎯 Roadmap inmediato
-- Shift-left security en pipelines de IA.  
-- Zero-downtime para *serving* de agentes multi-tenant.  
-- Integración robótica con verificación de comandos.
+## 🧭 Formación y ruta académica
+- **Doble Grado (en curso)** — Ciberseguridad & Hacking + Ingeniería en Mecatrónica (MSMK, 2025 →)  
+  Último año vía acuerdo Pearson en el extranjero (p. ej., titulación por Napier University, Edimburgo).
+- **Másteres y especializaciones (completados)**  
+  - Big Data & Data Science  
+  - Deep Learning & Generative AI  
+  - Bootcamps avanzados en NLP/LLMs, LangChain/LangGraph, MLOps
+- **Certificaciones**  
+  - Microsoft **AI-900** · **AI-102**  
+  - NVIDIA **Accelerated**  
+  - TMC Security **OSINT**
+
+> `TODO: imágenes` diplomas/insignias 600–800 px.
 
 ---
 
-## 📊 Stats
+## 📊 Observabilidad y métricas (lo que monitorizo)
+- Calidad: precisión, cobertura, groundedness/citations, robustez a prompts adversarios.  
+- Rendimiento: latencia p50/p95/p99, tokens/s, throughput por GPU, colas.  
+- Coste: coste por 1k tokens, por request y por tenant.  
+- Fiabilidad: uptime, errores por categoría, SLOs/SLA y alertas.
+
+---
+
+## 🔧 Toolkit
+**Modelos/Frameworks**: PyTorch, TensorFlow, vLLM, Triton, TensorRT, DSPy  
+**RAG/Agentes**: LangChain, LangGraph, Pinecone, Milvus, FAISS, re-rankers  
+**Infra**: Docker, Kubernetes, CUDA, autoscaling, CI/CD  
+**Data/MLOps**: SQL, PySpark, MLflow, OpenTelemetry, Prometheus/Grafana  
+**Seguridad IA**: guardrails, policy enforcement, rate limiting, auditoría
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CUDA-%2376B900?logo=nvidia&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/vLLM-%23000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-%23000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLflow-%23019B8F?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗺️ Roadmap inmediato
+- Shift-left security en pipelines de IA (políticas y pruebas de seguridad desde desarrollo).  
+- Zero-downtime para agentes multi-tenant en K8s con autoscaling inteligente.  
+- Integración mecatrónica: percepción-decisión-acción con validación programática.
+
+---
+
+## 📈 Stats (opcionales)
 <details>
-<summary>Ver métricas</summary>
+<summary>Mostrar</summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=infantesromeroadrian&theme=dark&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infantesromeroadrian&layout=compact&theme=dark)
@@ -122,8 +159,8 @@ Objetivo: Arquitecto de Soluciones de IA con criterio de producción.
 
 ---
 
-## 🤝 Colabora
-Consultoría en arquitectura LLM, RAG, agentes y MLOps.  
-Hardening de sistemas de IA y AI red teaming.  
-PoCs medibles con criterios de producción.
+## 🤝 Colaboración
+Arquitectura LLM, RAG y agentes con criterios de producción; hardening y red teaming de IA; PoCs con métricas públicas.  
+<a href="mailto:infantesromeroadrian@gmail.com">infantesromeroadrian@gmail.com</a> · <a href="https://www.linkedin.com/in/adrianinfantes">LinkedIn</a>
+
 
