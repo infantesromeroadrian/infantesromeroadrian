@@ -81,6 +81,12 @@ I design, deploy, and harden end-to-end AI systems: from datasets and fine-tunin
   - **89%** intent accuracy (**+40%** vs previous generation) and **−40%** false positives
   - **85%** accuracy across 12 waste classes (**+15%** vs manual inspection)
   - **−25%** kilometers driven and **−18%** CO₂ in 2022–2023; dashboards powered by **50+** telemetry APIs
+ 
+
+<!-- Ecoembes image (keep filename as provided; URL-encoded spaces/commas) -->
+<p align="center">
+  <img src="Generated Image September 24, 2025 - 10_54PM.png" alt="BBVA — Architecture & metrics" width="840"/>
+</p>
 
 ---
 
@@ -120,14 +126,20 @@ I design, deploy, and harden end-to-end AI systems: from datasets and fine-tunin
 ---
 
 ## 🧭 Education & Academic Path
-- **Dual Degree (ongoing)** — Cybersecurity & Hacking + Mechatronics Engineering (MSMK, 2025 →). Final year via Pearson agreement (e.g., Napier University, Edinburgh).
-- **MIOTI — Big Data & Data Science** (2020–2021) · **MIOTI — GenAI & Deep Learning** (2023–2024)
-- **B.Sc. in Software Engineering** (UCJC) · **Higher National Diploma in DAM (Online)** (U-tad)
+- **Dual Degree (ongoing)** — Cybersecurity & Hacking + Mechatronics Engineering (MSMK, 2025 →). Final year via Pearson agreement, Napier University, Edinburgh).
+- **MIOTI — GenAI & Deep Learning** (2020–2021) ·
+- **MIOTI — Big Data & Data Science** (2023–2024)
+- **B.Sc. in Software Engineering** (UCJC) ·
 
 ---
 
 ## 🏅 Certifications (selected)
-AI-900 · AI-102 (Microsoft) · NVIDIA Accelerated · Data Literacy Fundamentals · LangChain for LLM App Dev · Intro to Cybersecurity · Python for Advanced Tech Training
+- AI-900 · AI-102 (Microsoft)
+- NVIDIA Accelerated
+- Data Literacy Fundamentals
+- LangChain for LLM App Dev
+- Intro to Cybersecurity
+- Python for Advanced Tech Training
 
 ---
 
