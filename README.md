@@ -58,7 +58,7 @@ I design, deploy, and harden end-to-end AI systems: from datasets and fine-tunin
 
 <!-- BBVA image (keep filename as provided; URL-encoded spaces/commas) -->
 <p align="center">
-  <img src="Generated%20Image%20September%2024,%202025%20-%2010_26PM.png" alt="BBVA — Architecture & metrics" width="840"/>
+  <img src="Generated Image September 24, 2025 - 10_42PM (1).png" alt="BBVA — Architecture & metrics" width="840"/>
 </p>
 
 ---
