@@ -112,55 +112,6 @@ graph LR
 
 ---
 
-## 🛠️ The Secure AI Stack (Matrix)
-
-<details open>
-  <summary><b>🚀 Cloud, Infrastructure & MLOps</b></summary>
-  <br>
-
-| Category | Technologies |
-|---|---|
-| **Clouds** | AWS (Focus), Azure, Multi-cloud strategy |
-| **Compute & GPU** | Kubernetes (K8s), Docker, CUDA, TensorRT |
-| **Serving** | Triton Inference Server, vLLM (High-throughput) |
-| **IaC & DevOps** | Terraform, GitHub Actions |
-| **MLOps & Obs.** | MLflow, Prometheus, Grafana, OpenTelemetry, Evidently AI |
-
-</details>
-
-<br>
-
-<details open>
-  <summary><b>🛡️ AI Security & Governance (My Focus)</b></summary>
-  <br>
-
-| Category | Technologies |
-|---|---|
-| **AppSec for LLMs** | Prompt Guardrails, LangChain Security middleware, Threat Modeling |
-| **Red Teaming** | Adversarial ML evaluation, Jailbreak testing programs |
-| **Compliance** | PII masking pipelines, Audit trails, Policy enforcement |
-
-</details>
-
-<br>
-
-<details>
-  <summary><b>🧠 GenAI Core & Data</b></summary>
-  <br>
-
-| Category | Technologies |
-|---|---|
-| **Models** | GPT-4o, LLaMA-3, Mistral (Fine-tuning with QLoRA) |
-| **Orchestration** | LangChain, LangGraph (Agentic flows), DSPy |
-| **RAG Stack** | Pinecone/Faiss (Vector DBs), Cross-encoder re-ranking |
-| **Data Eng** | Python, SQL, PySpark, Lake architectures |
-
-</details>
-
-
-
-
----
 
 ### Ecoembes — Machine Learning Engineer (Mid) · 2020 → 2024
 **Context**: Hybrid Cloud & Edge AI. Conversational AI 2.0 and computer vision on the edge for recycling logistics.
