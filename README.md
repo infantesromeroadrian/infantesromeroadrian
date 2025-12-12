@@ -255,10 +255,14 @@ graph LR
 
 <p align="center">
   <a href="https://github.com/infantesromeroadrian">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=infantesromeroadrian&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+    <img height="180" 
+         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=infantesromeroadrian&show_icons=true&theme=transparent&hide_border=true" 
+         alt="GitHub Stats" />
   </a>
   <a href="https://github.com/infantesromeroadrian">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infantesromeroadrian&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+    <img height="180" 
+         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=infantesromeroadrian&layout=compact&theme=transparent&hide_border=true" 
+         alt="Top Languages" />
   </a>
 </p>
 
