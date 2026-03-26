@@ -1,23 +1,23 @@
-<!-- GitHub Profile · Adrián Infantes · Story/Impact Edition (EN) -->
+<!-- GitHub Profile · Adrián Infantes · Aligned with LinkedIn (March 2026) -->
 
 <!-- HERO · Dark/Light aware -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.png">
-    <img alt="Adrián Infantes — AI Solutions Architect Track" src="./assets/hero-light.png" width="940">
+    <img alt="Adrián Infantes — AI Security Engineer" src="./assets/hero-light.png" width="940">
   </picture>
 </p>
 
 <h1 align="center">Adrián Infantes</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Solutions+Architect;AI+Security+Engineer;Cloud+AI+Engineer;Adversarial+ML+%26+Red+Teaming&font=Fira+Code&center=true&width=600&height=30&color=3298dc&vCenter=true&pause=1000" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI+Security+Engineer;AI+Safety+%26+Alignment;Red+Teaming+Frontier+Models;Adversarial+ML+%26+Cybersecurity;Kaggle+Master+%7C+Top+800+HackTheBox&font=Fira+Code&center=true&width=600&height=30&color=3298dc&vCenter=true&pause=1000" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <em>Architecting secure, scalable, and production-grade AI systems on the Cloud.</em><br/>
+  <em>I build AI systems knowing exactly how they'll break — and how an adversary will exploit them.</em><br/>
   <br/>
   <a href="mailto:infantesromeroadrian@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-DB4437?style=flat-square&logo=gmail&logoColor=white" alt="Email">
@@ -28,60 +28,65 @@
   <a href="https://github.com/infantesromeroadrian">
     <img src="https://img.shields.io/badge/GitHub-follow-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
+  <a href="https://infantesromeroadrian.github.io/Web-Portfolio-AIR-Terminal/">
+    <img src="https://img.shields.io/badge/Portfolio-visit-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
 
-> 🛰️ **I design, attack and defend AI systems in regulated environments.**  
-> - **Who:** AI/ML engineer focused on AI Security & Cloud Architecture in banking/FinCrime.  
-> - **What:** Build & harden LLM/RAG platforms on Kubernetes + AWS, with real SLAs and audits.  
-> - **Proof:** Zero-Trust LLM stack @BBVA, multi-tenant RAG, measurable lifts in risk & fraud models.
+> **I design, attack and defend AI systems in regulated environments.**
+> - **Who:** AI Security & Agent Engineer focused on AI Safety, Alignment & Adversarial Research in Financial Crime (AML, Sanctions, KYC/KYB, Transaction Monitoring).
+> - **What:** Red team, harden and deploy LLM/RAG/Agentic platforms on hybrid infrastructure (NVIDIA DGX + Azure/AWS), with real SLAs and audits.
+> - **Proof:** 206+ adversarial vectors evaluated, critical findings remediated pre-deploy @BBVA. Kaggle Master. HackTheBox Top 800 Global.
 
 ---
 
-## 🎯 Summary
+## Core Technical Strengths
 
-I don't just build AI models; I engineer the **secure cloud ecosystems** that enable them to run in production.
-
-My focus sits at the intersection of **Generative AI**, **Cloud Engineering**, and **Cybersecurity**. I bridge the gap between cutting-edge LLM capabilities (RAG, Agents) and the rigorous demands of enterprise environments (Banking/FinTech). My mission is to deploy systems that are not only intelligent but also resilient, auditable, and hardened against adversarial threats.
-
----
-
-## 🧠 Core Technical Strengths
-
-* **AI & Cloud Architecture:** `K8s Autoscale` `Multi-tenant GPU Serving` `Serverless AI` `Hybrid Cloud` `Terraform IaC`
-* **AI Security & Hardening:** `LLM Red Teaming` `Prompt Guardrails` `PII Redaction Pipelines` `OWASP LLM Top 10` `Model Governance`
-* **Generative AI Core:** `Production RAG` `Agentic Systems (LangGraph)` `Fine-tuning (QLoRA)` `DSPy Robust Prompting`
+* **AI Security & Red Teaming:** `MITRE ATLAS` `OWASP LLM Top 10` `PyRIT` `Garak` `Prompt Injection` `Jailbreaks` `Data Exfiltration` `Model Extraction` `Guardrail Bypass` `Threat Modeling`
+* **AI Safety & Alignment:** `RLHF` `DPO` `Constitutional AI` `Scalable Oversight` `Mechanistic Interpretability` `Adversarial Robustness`
+* **AI Agent Engineering:** `LangGraph` `LangChain` `AutoGen` `ReAct` `Plan-and-Execute` `Tool-use Security` `Sandboxing`
+* **NVIDIA Inference & HPC:** `DGX` `TensorRT-LLM` `Triton` `NIM` `CUDA` `cuDNN` `FP8/INT8/AWQ/GPTQ Quantization` `ONNX`
+* **MLSecOps:** `Zero Trust` `CI/CD Security Gates` `Trivy` `Cosign` `mTLS` `Kubernetes (AKS/EKS)` `MLflow` `LangSmith`
 
 ---
 
-## ⚡ Impact at a Glance
+## Impact at a Glance
 
 | Company      | Role                        | Focus                                 | Key Impact |
 |-------------|-----------------------------|---------------------------------------|-----------|
-| **BBVA**        | AI/ML Engineer (Senior)     | Secure LLM/RAG platform, FinCrime AI  | Zero-Trust LLM stack, +22% AUC credit-risk, 500k+ guarded queries/month |
-| **Ecoembes**    | ML Engineer (Mid)           | Edge CV + Conversational AI           | 89% intent acc., 85% waste classification, −25% logistics km |
-| **Capgemini**   | Data Scientist (Junior)     | Data lake, forecasting, BI            | +20% forecast accuracy, −30% analysis cycle time, 10h/analyst/week saved |
+| **BBVA**        | AI Security Architect       | Secure Hybrid Cloud, FinCrime AI, Red Teaming | 206+ adversarial vectors, -20% latency, -35% ops costs |
+| **BBVA**        | AI/ML Engineer              | Secure RAG, NLP, Fraud & Risk Models  | +22% AUC-ROC credit-risk, +15% retrieval precision, 500k+ guarded queries/month |
+| **Ecoembes**    | ML Engineer (Mid)           | Edge CV + Conversational AI           | 85% waste classification, +40% intent accuracy, -25% logistics km |
+| **Capgemini**   | Data Scientist (Junior)     | Data lake, forecasting, BI            | +20% forecast accuracy, -30% analysis cycle, 10h/analyst/week saved |
 
 ---
 
-## 💼 Experience (what I used, why I used it, and what it achieved)
+## Experience
 
-### BBVA — AI/ML Engineer (Senior) · 2024 → Present
+### BBVA Technology — AI Security Architect | Secure Hybrid Cloud & Intelligence Systems (FinCrime)
+**Jan 2026 → Present · Madrid (Hybrid)**
 
-**Context**: Architecting secure, multi-tenant LLM platforms for banking. RAG over highly sensitive internal sources with enterprise-grade compliance.
+**Context**: Architecting AI Safety infrastructure for sensitive data processing in Financial Crime — AML, KYC/KYB and Transaction Monitoring pipelines — combining NVIDIA (DGX + Triton Inference Server) on-premise with Azure Confidential Computing (TEEs).
 
-* **The "Why" (Architectural Decisions):**
-  * Moved beyond basic RAG to build **verifiable, grounded systems** with re-ranking, crucial for financial data integrity.
-  * Engineered **hardened LLM platforms** adopting a "Defense in Depth" approach against prompt injection and context exfiltration.
-  * Delivered **cost-efficient GPU compute** via Kubernetes (HPA) and Triton/vLLM, balancing performance with FinOps.
+* **AI Red Teaming & Threat Modeling** over Agentic Systems, RAG pipelines and LLM applications in production for sanctions screening, fraud detection and KYC due diligence. Adversarial ML evaluated: prompt injection (direct/indirect), multi-turn jailbreaks, data exfiltration, data poisoning, model extraction, tool-use abuse, guardrail bypass, system prompt manipulation. Frameworks: MITRE ATLAS, OWASP Top 10 for LLM Applications. Tools: PyRIT, Garak, custom adversarial harnesses. **Result: 206+ vectors evaluated, critical findings remediated pre-deploy.**
+* **AI Safety Architecture (HLD/LLD)**: Isolation controls, end-to-end encryption, GDPR compliance, regulated banking standards (PRA/ECB equivalent), private connectivity (ExpressRoute). **Result: -20% latency, significant risk reduction on critical workloads.**
+* **MLSecOps end-to-end**: Security gates in CI/CD, vulnerability scanning (Trivy + Defender for Containers), model artifact signing (Cosign + Notary), drift monitoring with MLflow and LangSmith. Zero Trust: network segmentation, mTLS between services, identity-based access per layer. **Result: -35% operational costs.**
 
-* **The Impact (Metrics):**
-  * 🛡️ **Zero Trust AI**: Implemented guardrails processing **>500k queries/month** with 99.95% SLA.
-  * ⚡ **Cloud Efficiency**: **−20%** latency via GPU quantization; **p95 < 300 ms** on secure infrastructure.
-  * 📈 **Business Value**: **+15%** accuracy on financial analysis tasks & **+22%** AUC-ROC on credit-risk cases.
+---
 
-<h3 align="center">⚡ Visualizing a Secure RAG Architecture (Conceptual)</h3>
+### BBVA Technology — AI/ML Engineer | LLMs, RAG, NLP, MLOps
+**Jan 2024 → Jan 2026 · 2 years (Remote)**
+
+**Context**: Design, development and deployment of AI systems with integrated AI Safety for regulated financial environments, combining on-premise GPU clusters with AWS (SageMaker, Bedrock).
+
+* **Secure RAG over Foundation Models**: Systems with guardrails (including GraphRAG and Self-RAG) over sensitive documentation — Elasticsearch on-premise + Amazon OpenSearch + vector stores (FAISS, Azure AI Search). Open-weight LLMs (Mistral, LLaMA) optimized with GPTQ/AWQ quantization. **Impact: +15% retrieval precision, -20% latency.**
+* **NLP & Voice**: Pipelines processing +10M interactions/year — ASR, diarization, sentiment analysis and intent extraction with Deep Learning. **Impact: +18% CSAT, -35% operational costs.**
+* **Fraud & Risk**: Ensemble models (XGBoost + Transformer architectures) for fraud detection and AML on 50K documents/day. Transactional feature engineering + NLP for entity extraction in KYC documentation. **Impact: +22% AUC-ROC.**
+* **MLOps & Distributed Training**: End-to-end lifecycle — distributed training in cloud, serving on EKS, tracking with MLflow, drift monitoring and end-to-end traceability. **Impact: -40% time-to-market.**
+
+<h3 align="center">Visualizing a Secure RAG Architecture (Conceptual)</h3>
 <p align="center">
 Isolating ingestion, retrieval, and generation layers with security boundaries.
 </p>
@@ -92,88 +97,60 @@ graph LR
     subgraph Client Layer
         A[User Request] --> B(API Gateway / WAF);
     end
-    
+
     subgraph Secure Cloud Zone
         B --> C{Security Middleware};
         C -- "Prompt Injection Check" --> D[Guardrails Service];
         D -- "Blocked" --> E((Audit Log & Deny));
         D -- "Safe" --> F[LangChain Orchestrator];
-        
+
         subgraph Retrieval Layer
             F --> G[(Vector DB - Private Subnet)];
             G -- "Context + Citations" --> F;
         end
-        
+
         subgraph Generation Layer
             F --> H["LLM Serving (Triton/vLLM on GPU K8s)"];
             H -- "Generated Answer" --> C;
         end
     end
-    
+
     C -- "Output Validation & PII Redaction" --> I[Final Response];
     I --> A;
 
-        style B fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#f9f,stroke:#333,stroke-width:2px
     style D fill:#ffcccc,stroke:#f00,stroke-width:2px
     style G fill:#ccf,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
     style H fill:#ccf,stroke:#333,stroke-width:2px
     style C fill:#ffffcc,stroke:#ee0
 ```
 
-<!-- BBVA image -->
-<p align="center">
-  <img src="Generated Image September 24, 2025 - 10_42PM (1).png" alt="BBVA — Architecture & metrics" width="840"/>
-</p>
+---
+
+### Ecoembes — Machine Learning Engineer (Mid) | Computer Vision & IoT (Edge + Cloud)
+**Feb 2020 → Jan 2024 · 4 years · Madrid (Hybrid)**
+
+**Context**: Hybrid Cloud & Edge AI. Computer Vision on industrial conveyor belts and conversational AI for recycling logistics.
+
+* **Edge CV & Real-time Inference**: Classification system on industrial conveyor belts — models trained in SageMaker, edge inference with ONNX. **Impact: 85% accuracy across 12 waste types, 45K images/hour, latency <100ms.**
+* **NLP & Virtual Assistant**: Migrated legacy chatbots to BERT Transformer architectures with embeddings. **Impact: +40% intent accuracy, -40% false positives.**
+* **Logistics Optimization**: Route planning algorithms migrated to cloud. **Impact: -25% km driven, -18% annual CO2 footprint.**
+* **MLOps**: Training, versioning and deployment pipelines with Docker and CI/CD. **Impact: 90% process automated.**
 
 ---
 
-### Ecoembes — Machine Learning Engineer (Mid) · 2020 → 2024
+### Capgemini — Data Scientist (Junior) | Cloud Data Analytics & AWS Foundations
+**Jan 2019 → Feb 2020 · 1 year 2 months · Las Rozas, Madrid (Hybrid)**
 
-**Context**: Hybrid Cloud & Edge AI. Conversational AI 2.0 and computer vision on the edge for recycling logistics.
+**Context**: Analytics and ML for enterprise clients; data lake on AWS, forecasting, and executive BI.
 
-* **The "Why" (Architectural Decisions):**
-  * Designed a **hybrid architecture (Cloud + Edge)** to run heavy Computer Vision models locally on industrial cameras with cloud synchronization.
-  * Migrated legacy chatbots to end-to-end BERT pipelines on containerized infrastructure.
-
-* **The Impact (Metrics):**
-  * **89%** intent accuracy (**+40%** lift) on conversational AI.
-  * **85%** accuracy in edge-based waste classification.
-  * **−25%** logistics kilometers driven via large-scale optimization backend.
-
-<!-- Ecoembes image -->
-<p align="center">
-  <img src="Generated Image September 24, 2025 - 10_54PM.png" alt="Ecoembes — Architecture & metrics" width="840"/>
-</p>
+* **Data Lake & ETL on AWS**: Pipelines in Python and Boto3, consolidating 10+ data sources into Amazon S3. **Impact: -30% analysis cycle time.**
+* **Predictive Modeling**: Forecasting models with scikit-learn and statsmodels on Amazon EC2. **Impact: +20% forecast accuracy.**
+* **BI & Automation**: Interactive dashboards in QuickSight and Tableau. Serverless reporting with AWS Lambda. **Impact: 10h/analyst/week saved, -35% SQL query response times.**
 
 ---
 
-### Capgemini — Data Scientist (Junior) · 2017 → 2020
-
-**Context**: Analytics and ML for enterprise clients; data lake build-out, forecasting, and executive BI.
-
-- **Technologies**
-  - **ML/Stats**: scikit-learn, statsmodels, XGBoost; pandas/numpy
-  - **Data**: Python ETL, SQL/SQLAlchemy; normalization, query tuning
-  - **BI**: Tableau, Looker Studio; automated reporting
-
-- **Why I used it**
-  - Unify **10+ sources** into a data lake with reproducible ETL and data quality checks.
-  - Train **forecasting and scoring** models with traceability/versioning.
-  - Democratize **KPIs** via executive dashboards and parameterized reporting.
-
-- **What it achieved (metrics)**
-  - **+20%** forecasting accuracy on product adoption.
-  - **−35%** SQL response times and **−30%** monthly analysis cycle.
-  - Saved **10 h/analyst/week** through report automation.
-
-<!-- Capgemini image -->
-<p align="center">
-  <img src="Generated%20Image%20September%2024,%202025%20-%2010_14PM.png" alt="Capgemini — Visual summary" width="820"/>
-</p>
-
----
-
-## 📊 What I Monitor in Production (The Architect's Dashboard)
+## What I Monitor in Production (The Architect's Dashboard)
 
 1. **Security & Risk:** Prompt injection attempts blocked, PII leakage detection rate, adversarial drift.
 2. **Reliability & SLOs:** p95/p99 latency against targets, GPU saturation vs throughput, error budgets.
@@ -181,53 +158,56 @@ graph LR
 
 ---
 
-## 🧱 Secure AI & Cloud Stack
+## Tech Stack
 
 <details open>
-  <summary><b>🚀 Cloud, MLOps & Observability</b></summary>
+  <summary><b>AI Security & Governance</b></summary>
   <br>
 
 | Category | Technologies |
 |---|---|
-| **Cloud** | AWS (core), Azure (multi-cloud strategy) |
-| **Compute** | Amazon EKS, EC2 (g5/p4 instances), Lambda, GPU K8s clusters |
-| **IaC & DevOps** | Terraform, GitHub Actions, AWS CDK |
-| **MLOps & Obs.** | Amazon SageMaker Pipelines, MLflow, Prometheus, Grafana, OpenTelemetry, Evidently AI |
+| **Red Teaming** | MITRE ATLAS, OWASP LLM Top 10, PyRIT, Garak, custom adversarial harnesses, jailbreak test-suites |
+| **AI Safety** | RLHF, DPO, Constitutional AI, Scalable Oversight, Mechanistic Interpretability |
+| **LLM AppSec** | Prompt Guardrails, security middleware, threat modeling, PII masking pipelines |
+| **Compliance** | Audit trails, Azure Confidential Computing (TEEs), end-to-end encryption, mTLS, Zero Trust |
 
 </details>
 
 <br>
 
 <details open>
-  <summary><b>🛡️ AI Security & Governance</b></summary>
+  <summary><b>NVIDIA Inference & HPC</b></summary>
   <br>
 
 | Category | Technologies |
 |---|---|
-| **LLM AppSec** | Prompt Guardrails, custom LangChain security middleware, threat modeling |
-| **Red Teaming** | Adversarial ML evaluation, jailbreak test-suites, policy fuzzing |
-| **Compliance** | PII masking pipelines, audit trails, AWS KMS, IAM hardening, WAF, policy enforcement |
+| **Hardware** | DGX, GPU clusters (on-premise + cloud) |
+| **Inference** | TensorRT-LLM, Triton Inference Server, NIM |
+| **Optimization** | CUDA, cuDNN, FP8/INT8/AWQ/GPTQ quantization, ONNX |
+| **Training** | PyTorch Distributed Training on HPC |
 
 </details>
 
 <br>
 
 <details>
-  <summary><b>🧠 GenAI & Data</b></summary>
+  <summary><b>GenAI, Agents & Data</b></summary>
   <br>
 
 | Category | Technologies |
 |---|---|
-| **Models** | GPT-4o, LLaMA-3, Mistral (Fine-tuning with QLoRA) |
-| **Orchestration** | LangChain, LangGraph (Agentic flows), DSPy, Amazon Bedrock Agents |
-| **RAG Stack** | Pinecone, Amazon OpenSearch Vector Engine, hybrid search + cross-encoder re-ranking, Bedrock Knowledge Bases |
+| **Models** | Foundation Models (Mistral, LLaMA), Fine-tuning (QLoRA/LoRA/PEFT) |
+| **Orchestration** | LangGraph, LangChain, AutoGen, ReAct, Plan-and-Execute |
+| **RAG Stack** | GraphRAG, Self-RAG, FAISS, Azure AI Search, Elasticsearch, cross-encoder re-ranking |
+| **MLSecOps** | MLflow, LangSmith, CI/CD security gates, Trivy, Cosign, Kubernetes (AKS/EKS), Docker |
+| **Cloud** | AWS (SageMaker, Bedrock, S3, EKS, Lambda), Azure (Confidential Computing, OpenAI, ExpressRoute) |
 | **Data Eng** | Python, SQL, PySpark, data lakes / lakehouse architectures |
 
 </details>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/infantesromeroadrian">
@@ -246,81 +226,78 @@ graph LR
   </a>
 </p>
 
-
 ---
 
-## 🔧 Toolkit (Quick View)
+## Toolkit (Quick View)
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=pytorch&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/MLflow-019B8F?style=flat-square&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </p>
 
 ---
 
-## 🧭 Education & Academic Path
+## Education
 
-* **BEng (Hons) Software Engineering with Cybersecurity** (Ongoing) — Edinburgh Napier University. *Focus on secure coding and systems defense.*
-* **Master in GenAI & Deep Learning** (2020–2021) — MIOTI.
-* **Master in Big Data & Data Science** (2023–2024) — MIOTI.
-* **B.Sc. in Software Engineering** (UCJC).
+* **BS Double Degree — Computational Mathematics & Computer Science (Specialization: Artificial Intelligence)** — Universidad Camilo José Cela (UCJC).
+* **Master's Degree — Gen AI & Deep Learning** — MIOTI | Tech & Business School.
 
 ---
 
-## 🏅 Certifications (Cloud & AI Focus)
+## Certifications
 
-* **AWS Certified Solutions Architect – Associate** (SAA-C03)
-* **AWS Certified Machine Learning Engineer - Associate** (MLA-C01) *[Target 2025]*
-* **NVIDIA Certified Associate** — AI in the Data Center
-* **DeepLearning.AI** — Generative AI with LLMs
-* **LangChain Academy** — Introduction to LangGraph
-* **ISC2** — Certified in Cybersecurity (CC)
+* **AWS AI Practitioner** — Amazon Web Services (2026)
+* **Claude AI Fluency Framework & Foundations** — Anthropic (2026)
 
 ---
 
-## 🗺️ Immediate Roadmap
+## Achievements
 
-- **Shift-left Security:** Integrating LLM Red Teaming into CI/CD pipelines.
-- **Agentic Scale:** Deploying multi-agent systems on EKS with zero-trust networking.
-- **Hardware Optimization:** Deep dive into AWS Trainium/Inferentia for cost reduction.
+* **Kaggle Master** — Top-tier competitive ML ranking.
+* **HackTheBox Top 800 Global** (L4tentNoise) — Top 1% Seasonal HTB Hacker.
+* **206+ adversarial attack vectors** documented against Foundation Models in production banking environments.
 
 ---
 
-## 🧪 Featured Repositories
-
-> Update the links once the repos are public. These are meant as *proofs*, not just code dumps.
+## Featured Repositories
 
 | Repo | What it proves | Link |
 |------|----------------|------|
-| **banking-secure-rag-platform** | End-to-end secure RAG on K8s with guardrails, audit logging and FinCrime use cases. | [`github.com/infantesromeroadrian/banking-secure-rag-platform`](https://github.com/infantesromeroadrian/banking-secure-rag-platform) |
-| **ai-red-teaming-toolkit** | Adversarial ML & jailbreak harness for LLM apps with reporting. | [`github.com/infantesromeroadrian/ai-red-teaming-toolkit`](https://github.com/infantesromeroadrian/ai-red-teaming-toolkit) |
-| **jarvis-local-assistant** | Local-first AI assistant (LLM + voice) orchestrated via LangGraph/Ollama. | [`github.com/infantesromeroadrian/jarvis-local-assistant`](https://github.com/infantesromeroadrian/jarvis-local-assistant) |
-| **fraud-graph-analytics-lab** | Graph-based fraud detection + LLM copilot flows for analysts. | [`github.com/infantesromeroadrian/fraud-graph-analytics-lab`](https://github.com/infantesromeroadrian/fraud-graph-analytics-lab) |
+| **Spectra — AI Red Teaming Orchestration** | AI-powered attack surface recon with LangGraph + Neo4j graph DB. Scans targets, maps vulnerabilities, AI analyst reasons over the graph. | [`Spectra-LangGraph-AI-Red-Teaming-Orchestration`](https://github.com/infantesromeroadrian/Spectra-LangGraph-AI-Red-Teaming-Orchestration) |
+| **SIEM Anomaly Detector ML** | Machine Learning for SIEM anomaly detection — security event analysis at scale. | [`SIEM-Anomaly-Detector-ML`](https://github.com/infantesromeroadrian/SIEM-Anomaly-Detector-ML) |
+| **Threat Intelligence ML Detector** | ML-based threat intelligence detection and analysis pipeline. | [`Threat-Intelligence-ML-Detector`](https://github.com/infantesromeroadrian/Threat-Intelligence-ML-Detector) |
+| **LangGraph Agents Hospital Center** | Multi-agent system with LangGraph — production-grade agentic architecture. | [`LangGraph-Agents-HospitalCenter`](https://github.com/infantesromeroadrian/LangGraph-Agents-HospitalCenter) |
+| **Malware Analysis with LLMs** | LLM-assisted malware analysis in isolated environments with web interface. | [`Malware-Analisys-LLMs`](https://github.com/infantesromeroadrian/Malware-Analisys-LLMs) |
+| **WatchDogs Security City** | Security monitoring and analysis platform. | [`WatchDogs-Security-City`](https://github.com/infantesromeroadrian/WatchDogs-Security-City) |
 
 ---
 
-## 🧾 For Hiring Managers & CTOs
+## For Hiring Managers & CTOs
 
-- **Roles I fit best:** AI Solutions Architect · AI Security Engineer · Cloud AI Engineer (K8s + LLMs).  
-- **Domains where I’m strongest:** Banking, Financial Crime Prevention, regulated environments.  
-- **What I actually enjoy:** designing, attacking and hardening LLM/RAG systems in production, not just PoCs.  
+- **Roles I fit best:** AI Security Engineer · AI Security Architect · AI Red Team Lead · AI Safety Engineer.
+- **Domains where I'm strongest:** Banking, Financial Crime (AML/KYC/Sanctions), regulated environments.
+- **What I actually enjoy:** evaluating, attacking and hardening LLM/RAG/Agentic systems in production — not just PoCs.
 - **Location / Work mode:** Based in Spain, open to EU/UK-remote; English/Spanish working proficiency.
 
 ---
 
-## 🤝 Collaboration Scope
+## Collaboration Scope
 
-I'm looking to collaborate on projects designed for production, not just PoCs. Let's connect if you are building:
+I'm looking to collaborate on production-grade projects. Let's connect if you are building:
 
-* Secure, multi-agent systems on Kubernetes.
-* Financial grade RAG with strict compliance requirements.
-* AI Red Teaming exercises and hardening strategies.
+* AI Red Teaming exercises and LLM hardening strategies.
+* Secure, multi-agent systems with adversarial evaluation.
+* Financial-grade RAG with strict compliance requirements.
+* AI Safety research — alignment, interpretability, robustness.
 
 <p align="center">
-  <a href="mailto:infantesromeroadrian@gmail.com">infantesromeroadrian@gmail.com</a> · <a href="https://www.linkedin.com/in/adrianinfantes">LinkedIn</a>
+  <a href="mailto:infantesromeroadrian@gmail.com">infantesromeroadrian@gmail.com</a> · <a href="https://www.linkedin.com/in/adrianinfantes">LinkedIn</a> · <a href="https://infantesromeroadrian.github.io/Web-Portfolio-AIR-Terminal/">Portfolio</a>
 </p>
