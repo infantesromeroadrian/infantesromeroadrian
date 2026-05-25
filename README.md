@@ -66,6 +66,21 @@ location:   Madrid, Spain | Open to EU/UK remote
 
 ---
 
+### `$ cat education/`
+
+<div align="center">
+
+| Degree | Focus |
+|:-------|:------|
+| BSc Applied Mathematics & Computing | AI, Cryptography, Bayesian Statistics, Optimization |
+| MSc Deep Learning & Generative AI (240h) | Neural Networks, NLP, GenAI |
+| MSc Data Science & Big Data (240h) | ML pipelines, Big Data, Analytics |
+| MSc Smart Solutions IoT (240h) | Edge computing, IoT systems |
+
+</div>
+
+---
+
 ### `$ ls featured/`
 
 <div align="center">
