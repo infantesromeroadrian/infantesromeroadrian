@@ -21,28 +21,55 @@
 
 I work at the intersection of AI security, security architecture and AI engineering. My focus is what happens when untrusted content reaches an LLM system's context, memory, tools, APIs or code-execution layer—and how to turn those failure modes into threat models, reproducible tests and enforceable controls.
 
-I currently work as an **AI Security Architect at BBVA Technology**. My public professional record includes adversarial assessment across **200+ AI attack vectors** and **seven critical findings** in banking contexts. [Professional context →](https://www.linkedin.com/in/adrianinfantes)
+> **Current role:** AI Security Architect at BBVA Technology
+>
+> **Public professional record:** 200+ AI attack vectors assessed and seven critical findings in banking contexts. [Professional context →](https://www.linkedin.com/in/adrianinfantes)
 
-My public repositories are deliberately practical: local labs, adversarial scenarios, agent harnesses and architecture prototypes that can be inspected and reproduced. Where a project is experimental, simulated or still in progress, I say so explicitly.
+Here I publish practical labs, adversarial scenarios, agent harnesses and architecture prototypes that can be inspected and reproduced. Experimental, simulated and in-progress work is labelled explicitly.
 
 ## What I work on
 
-| Area | Focus |
-| --- | --- |
-| **AI and LLM security** | Prompt injection, unsafe tool use, RAG and memory poisoning, adversarial evaluation, guardrails and threat modelling |
-| **Agentic systems** | Tool and MCP boundaries, least privilege, execution isolation, context management and multi-agent orchestration |
-| **Cloud security architecture** | AWS, IAM, containers, CI/CD, observability and secure-by-design delivery |
-| **AI engineering** | Python, PyTorch, LangGraph, FastAPI, TypeScript and systems fundamentals in C |
+- **AI and LLM security** — prompt injection, unsafe tool use, RAG and memory poisoning, adversarial evaluation and threat modelling.
+- **Secure agentic systems** — tool and MCP boundaries, least privilege, execution isolation and context management.
+- **Cloud security architecture** — AWS, IAM, containers, CI/CD, observability and secure-by-design delivery.
+- **AI engineering** — Python, PyTorch, LangGraph, FastAPI, TypeScript and systems fundamentals in C.
 
 ## Selected public work
 
-| Project | What you can inspect | Scope |
-| --- | --- | --- |
-| [**GenAI Seguro Lab**](https://github.com/infantesromeroadrian/GenAI-Seguro-Lab) | Threat model, deterministic attack scenarios, guardrail evaluation and reproducible evidence | Local security prototype using synthetic data; not presented as production-ready |
-| [**ARCA Agent**](https://github.com/infantesromeroadrian/arca-agent) | A multi-runtime agent-harness template with skills, hooks, policies and CI-oriented controls | Reusable engineering scaffold; controls still depend on the host runtime and permissions |
-| [**Neural Forge Lab**](https://github.com/infantesromeroadrian/neural-forge-lab) | AI foundations built from first principles, starting with tensors, autodiff and explicit evidence gates | Active learning and engineering lab; current state is documented in the repository |
-| [**Spectra**](https://github.com/infantesromeroadrian/Spectra-LangGraph-AI-Red-Teaming-Orchestration) | Authorized attack-surface reconnaissance, graph modelling with Neo4j and LangGraph-assisted analysis | Security learning project for authorized environments only |
-| [**FraudAI Agent**](https://github.com/infantesromeroadrian/FraudAI-Agent) | Multi-agent fraud analysis, RAG workflows and adversarial-testing components | Portfolio prototype; not described here as a deployed production platform |
+### [GenAI Seguro Lab →](https://github.com/infantesromeroadrian/GenAI-Seguro-Lab)
+
+A reproducible local lab for turning AI attack paths into deterministic tests and measurable controls.
+`threat modelling` `attack scenarios` `guardrail evaluation` `synthetic data`
+
+> **Scope:** security prototype, not presented as production-ready. [Open the deterministic demo →](https://genai-seguro-lab.vercel.app)
+
+### [ARCA Agent →](https://github.com/infantesromeroadrian/arca-agent)
+
+A multi-runtime agent-harness template that makes skills, hooks, policies and CI-oriented controls inspectable.
+`agent harnesses` `runtime policy` `hooks` `CI controls`
+
+> **Scope:** reusable engineering scaffold; effective security still depends on the host runtime and permissions.
+
+### [Neural Forge Lab →](https://github.com/infantesromeroadrian/neural-forge-lab)
+
+AI engineering foundations built from first principles, beginning with tensors, autodiff and explicit evidence gates.
+`autodiff` `transformer foundations` `evaluation gates`
+
+> **Scope:** active learning and engineering lab; the current implementation state is documented in the repository.
+
+### [Spectra →](https://github.com/infantesromeroadrian/Spectra-LangGraph-AI-Red-Teaming-Orchestration)
+
+Attack-surface reconnaissance combined with Neo4j graph modelling and LangGraph-assisted analysis.
+`authorized reconnaissance` `Neo4j` `LangGraph`
+
+> **Scope:** security learning project for explicitly authorized environments only.
+
+### [FraudAI Agent →](https://github.com/infantesromeroadrian/FraudAI-Agent)
+
+A prototype combining multi-agent fraud analysis, RAG workflows and adversarial-testing components.
+`multi-agent systems` `RAG` `AI red teaming`
+
+> **Scope:** portfolio prototype; not described here as a deployed production platform.
 
 ## Engineering principles
 
