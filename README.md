@@ -1,136 +1,94 @@
-<!-- GitHub Profile · Adrian Infantes · 2026 -->
+<!-- GitHub profile README · Adrian Infantes -->
 
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.png" width="100%" alt="Abstract blue and gold architecture at night">
+</p>
 
-<!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:06b6d4,100:0a0a0f&height=200&section=header&text=Adrian%20Infantes&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Security%20Engineer&descSize=18&descColor=06b6d4&descAlignY=55&animation=twinkling" width="100%" alt="header"/>
+<h1 align="center">Adrian Infantes</h1>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+AI+systems+knowing+how+they'll+break;206%2B+attacks+against+Foundation+Models;Red+Teaming+LLMs+in+production+banking;Kaggle+Master+%7C+HTB+Top+800+Global&font=JetBrains+Mono&center=true&width=550&height=24&color=06b6d4&vCenter=true&pause=1200&size=14" alt="Typing SVG"/>
-</a>
+<p align="center">
+  <strong>AI Security Architect · Secure Agentic Systems · Cloud Architecture</strong>
+</p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://adrian-infantes.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/adrianinfantes">LinkedIn</a> ·
+  <a href="https://www.kaggle.com/adrininfantesromero">Kaggle</a> ·
+  <a href="mailto:infantesromeroadrian@gmail.com">Email</a>
+</p>
 
-<!-- Quick links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-adrian--infantes.vercel.app-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://adrian-infantes.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianinfantes)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Master-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adrininfantesromero)
-[![Email](https://img.shields.io/badge/Email-contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infantesromeroadrian@gmail.com)
+## AI security built around evidence
 
-</div>
+I work at the intersection of AI security, security architecture and AI engineering. My focus is what happens when untrusted content reaches an LLM system's context, memory, tools, APIs or code-execution layer—and how to turn those failure modes into threat models, reproducible tests and enforceable controls.
 
----
+> **Current role:** AI Security Architect at BBVA Technology
+>
+> **Public professional record:** 200+ AI attack vectors assessed and seven critical findings in banking contexts. [Professional context →](https://www.linkedin.com/in/adrianinfantes)
 
-### `$ whoami`
+Here I publish practical labs, adversarial scenarios, agent harnesses and architecture prototypes that can be inspected and reproduced. Experimental, simulated and in-progress work is labelled explicitly.
 
-> I design, attack and defend AI systems in regulated banking environments.
+## What I work on
 
-```yaml
-role:       AI Security Architect @ BBVA Technology
-focus:      AI Safety | Red Teaming | Adversarial ML | Financial Crime
-proof:      206+ attack vectors evaluated, 7 critical findings pre-deploy
-ranking:    Kaggle Master | HackTheBox Top 800 Global (L4tentNoise)
-education:  BS Computational Mathematics & CS (AI) | MSc Gen AI & Deep Learning
-location:   Madrid, Spain | Open to EU/UK remote
-```
+- **AI and LLM security** — prompt injection, unsafe tool use, RAG and memory poisoning, adversarial evaluation and threat modelling.
+- **Secure agentic systems** — tool and MCP boundaries, least privilege, execution isolation and context management.
+- **Cloud security architecture** — AWS, IAM, containers, CI/CD, observability and secure-by-design delivery.
+- **AI engineering** — Python, PyTorch, LangGraph, FastAPI, TypeScript and systems fundamentals in C.
 
----
+## Selected public work
 
-### `$ cat impact.log`
+### [GenAI Seguro Lab →](https://github.com/infantesromeroadrian/GenAI-Seguro-Lab)
 
-<div align="center">
+A reproducible local lab for turning AI attack paths into deterministic tests and measurable controls.
+`threat modelling` `attack scenarios` `guardrail evaluation` `synthetic data`
 
-| Where | What | Result |
-|:---:|:---|:---|
-| **BBVA** | AI Red Teaming on LLM/RAG/Agent systems in FinCrime | `206+ vectors` `7 critical` `-20% latency` `-35% costs` |
-| **BBVA** | Secure RAG + Fraud Detection in production banking | `+22% AUC` `+15% precision` `500K+ guarded queries/mo` |
-| **Ecoembes** | Edge CV waste classification + NLP assistant | `85% accuracy` `45K img/h` `<100ms` `-18% CO2` |
-| **Capgemini** | AWS data lake + forecasting + BI automation | `+20% forecast` `-30% cycle` `10h/analyst/wk saved` |
+> **Scope:** security prototype, not presented as production-ready. [Open the deterministic demo →](https://genai-seguro-lab.vercel.app)
 
-</div>
+### [ARCA Agent →](https://github.com/infantesromeroadrian/arca-agent)
 
----
+A multi-runtime agent-harness template that makes skills, hooks, policies and CI-oriented controls inspectable.
+`agent harnesses` `runtime policy` `hooks` `CI controls`
 
-### `$ nvidia-smi --skills`
+> **Scope:** reusable engineering scaffold; effective security still depends on the host runtime and permissions.
 
-<div align="center">
+### [Neural Forge Lab →](https://github.com/infantesromeroadrian/neural-forge-lab)
 
-`MITRE ATLAS` `OWASP LLM Top 10` `PyRIT` `Garak` `Red Teaming` `Threat Modeling`
-`PyTorch` `Transformers` `LangGraph` `LangChain` `RAG` `GraphRAG` `FAISS`
-`DGX` `TensorRT-LLM` `Triton` `NIM` `CUDA` `FP8/INT8/AWQ`
-`Kubernetes` `Docker` `AWS` `Azure` `MLflow` `Zero Trust` `CI/CD`
-`Python` `C++` `TypeScript` `SQL`
+AI engineering foundations built from first principles, beginning with tensors, autodiff and explicit evidence gates.
+`autodiff` `transformer foundations` `evaluation gates`
 
-</div>
+> **Scope:** active learning and engineering lab; the current implementation state is documented in the repository.
 
----
+### [Spectra →](https://github.com/infantesromeroadrian/Spectra-LangGraph-AI-Red-Teaming-Orchestration)
 
-### `$ cat education/`
+Attack-surface reconnaissance combined with Neo4j graph modelling and LangGraph-assisted analysis.
+`authorized reconnaissance` `Neo4j` `LangGraph`
 
-<div align="center">
+> **Scope:** security learning project for explicitly authorized environments only.
 
-| Degree | Focus |
-|:-------|:------|
-| BSc Applied Mathematics & Computing | AI, Cryptography, Bayesian Statistics, Optimization |
-| MSc Deep Learning & Generative AI (240h) | Neural Networks, NLP, GenAI |
-| MSc Data Science & Big Data (240h) | ML pipelines, Big Data, Analytics |
-| MSc Smart Solutions IoT (240h) | Edge computing, IoT systems |
+### [FraudAI Agent →](https://github.com/infantesromeroadrian/FraudAI-Agent)
 
-</div>
+A prototype combining multi-agent fraud analysis, RAG workflows and adversarial-testing components.
+`multi-agent systems` `RAG` `AI red teaming`
 
----
+> **Scope:** portfolio prototype; not described here as a deployed production platform.
 
-### `$ ls featured/`
+## Engineering principles
 
-<div align="center">
+- Threat-model the system before choosing a guardrail.
+- Treat prompts as guidance; enforce security through permissions, isolation and runtime checks.
+- Prefer synthetic or explicitly authorized data for public experiments.
+- Separate implemented, tested and planned capabilities.
+- Publish enough evidence for another engineer to reproduce the result.
 
-| Project | Stack | What it proves |
-|:--------|:------|:---------------|
-| [**Spectra**](https://github.com/infantesromeroadrian/Spectra-LangGraph-AI-Red-Teaming-Orchestration) | LangGraph + Neo4j | AI attack surface recon with graph reasoning |
-| [**FraudAI Agent**](https://github.com/infantesromeroadrian/FraudAI-Agent) | LangGraph + RAG + Qdrant | 6-agent fraud platform, 482 tests, 93% coverage |
-| [**Hospital Center AI**](https://github.com/infantesromeroadrian/LangGraph-Agents-HospitalCenter) | LangGraph + FastAPI + PostgreSQL | 8 parallel medical agents, consensus routing |
-| [**Drone GeoAnalysis**](https://github.com/infantesromeroadrian/Drone-GeoAnalysis-LLMs) | YOLOv11 + Flask + Mapbox | ISR platform with LLM mission planning |
-| [**WatchDogs OSINT**](https://github.com/infantesromeroadrian/WatchDogs-Security-City) | LangGraph + GPT Vision | 4 parallel CV agents, score 95/100 |
-| [**Triagegeist**](https://github.com/infantesromeroadrian/triagegeist) | XGBoost + CatBoost + SHAP | Kaggle: 99.98% triage prediction accuracy |
+## Current direction
 
-</div>
+I am deepening three connected tracks: adversarial security for tool-using AI agents, cloud and IAM architecture, and the low-level programming foundations needed to reason precisely about runtimes and failure modes.
+
+If you are working on secure AI systems, agent security or cloud architecture, the best starting points are [GenAI Seguro Lab](https://github.com/infantesromeroadrian/GenAI-Seguro-Lab) and [ARCA Agent](https://github.com/infantesromeroadrian/arca-agent).
 
 ---
 
-### `$ git log --stat`
-
-<div align="center">
-
-<picture>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=infantesromeroadrian&show_icons=true&theme=transparent&hide_border=true&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9&ring_color=06b6d4" alt="stats"/>
-</picture>
-<picture>
-  <img height="170" src="https://streak-stats.demolab.com?user=infantesromeroadrian&theme=transparent&hide_border=true&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=c9d1d9&sideNums=06b6d4&dates=555555" alt="streak"/>
-</picture>
-
-<br/>
-
-<picture>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infantesromeroadrian&layout=compact&theme=transparent&hide_border=true&title_color=06b6d4&text_color=c9d1d9" alt="langs"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=infantesromeroadrian&theme=react-dark&hide_border=true&bg_color=00000000&color=06b6d4&line=06b6d4&point=ffffff&area=true&area_color=06b6d4" width="95%" alt="activity"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=infantesromeroadrian&style=flat-square&color=06b6d4&label=profile+views" alt="views"/>
-
-**[adrian-infantes.vercel.app](https://adrian-infantes.vercel.app)** -- full portfolio with live demos, AI chatbot, and job match analyzer
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:06b6d4,100:0a0a0f&height=100&section=footer" width="100%" alt="footer"/>
-
-</div>
+<p align="center">
+  <a href="https://adrian-infantes.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/adrianinfantes">Professional background</a> ·
+  <a href="mailto:infantesromeroadrian@gmail.com">Get in touch</a>
+</p>
