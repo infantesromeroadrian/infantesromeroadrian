@@ -11,8 +11,14 @@
 </p>
 
 <p align="center">
+  HTB Certified Offensive AI Expert (COAE, 2026) · Hack The Box #274 global (top 0.4%)
+</p>
+
+<p align="center">
   <a href="https://adrian-infantes.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/adrianinfantes">LinkedIn</a> ·
+  <a href="https://builder.aws.com/community/@adrianinfantes">AWS Builder Center</a> ·
+  <a href="https://app.hackthebox.com/users/2822044">Hack The Box</a> ·
   <a href="https://www.kaggle.com/adrininfantesromero">Kaggle</a> ·
   <a href="mailto:infantesromeroadrian@gmail.com">Email</a>
 </p>
@@ -49,6 +55,13 @@ A multi-runtime agent-harness template that makes skills, hooks, policies and CI
 `agent harnesses` `runtime policy` `hooks` `CI controls`
 
 > **Scope:** reusable engineering scaffold; effective security still depends on the host runtime and permissions.
+
+### [Strands AgentGuard →](https://github.com/infantesromeroadrian/strands-agentguard)
+
+A reproducible security assessment harness for agents, tools and MCP servers built with Strands Agents, the open-source agent SDK from AWS.
+`agent security` `MCP` `Strands Agents` `tool inventory`
+
+> **Scope:** early-stage harness (v0.0.0); contracts, tool inventory and a synthetic MCP server are in place, assessments are in progress.
 
 ### [Neural Forge Lab →](https://github.com/infantesromeroadrian/neural-forge-lab)
 
