@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adrian-portfolio-three-wheat.vercel.app">Portfolio</a> ·
+  <a href="https://adrian-infantes.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/adrianinfantes">LinkedIn</a> ·
   <a href="https://builder.aws.com/community/@adrianinfantes">AWS Builder Center</a> ·
   <a href="https://app.hackthebox.com/users/2822044">Hack The Box</a> ·
@@ -49,26 +49,47 @@ A reproducible local lab for turning AI attack paths into deterministic tests an
 
 > **Scope:** security prototype, not presented as production-ready. [Open the deterministic demo →](https://genai-seguro-lab.vercel.app)
 
+### [Strands AgentGuard →](https://github.com/infantesromeroadrian/strands-agentguard)
+
+A defensive harness (v0.1.0, MVP) that checks agents built with Strands Agents, the open-source agent SDK from AWS, and their tools and MCP servers against eight scenarios with deterministic, trace-based pass/fail criteria.
+`agent security` `MCP` `Strands Agents` `deterministic evaluators`
+
+> **Scope:** not audited; a passing run is not proof that an agent is secure. Against a real model with realistic attacks, indirect injection through a tool output succeeded in 15/20 trials without controls and 0/20 with the harness controls, with 0/5 false positives on the benign control.
+
+### [CTI IOC Guard →](https://github.com/infantesromeroadrian/cti-ioc-guard)
+
+LLM-based extraction of indicators of compromise (IOC) from untrusted text, hardened against indirect prompt injection, with a deterministic verifier and an evaluation against CISA STIX references.
+`indirect injection` `deterministic verifier` `STIX evaluation`
+
+> **Scope:** research prototype. The defence reduces the injected false IOC but does not solve it: it still succeeded in 62.5 % of injected variants with the full defence (n=120).
+
+### [Drone flight envelope →](https://github.com/infantesromeroadrian/Drone-GeoAnalysis-LLMs)
+
+A case study of LLM-planned drone missions placed behind a deterministic safety envelope and binding human approval.
+`safety envelope` `human approval` `fail-closed`
+
+> **Scope:** simulation only; not a certified safety system. With a real LLM, out-of-envelope plans that reached execution went from 39 of 39 before to 0 of 41 after.
+
+### [HospitalCenter →](https://github.com/infantesromeroadrian/LangGraph-Agents-HospitalCenter)
+
+A deterministic clinical-safety gate and prompt-injection hardening for a demonstration multi-agent medical system built with LangGraph.
+`LangGraph` `emergency gate` `injection hardening`
+
+> **Scope:** technical demo on synthetic data, not a medical product and not clinically validated. Injection attack success rate fell from 33.0 % to 9.1 %, and the pattern-based emergency gate still missed 28–42 % of emergencies on sets not used to tune it.
+
 ### [ARCA Agent →](https://github.com/infantesromeroadrian/arca-agent)
 
-A multi-runtime agent-harness template that makes skills, hooks, policies and CI-oriented controls inspectable.
+A generator that renders a portable agent harness (identity, subagents, skills, hooks and rules) for Claude Code, Codex CLI and OpenCode, so controls stay inspectable.
 `agent harnesses` `runtime policy` `hooks` `CI controls`
 
 > **Scope:** reusable engineering scaffold; effective security still depends on the host runtime and permissions.
 
-### [Strands AgentGuard →](https://github.com/infantesromeroadrian/strands-agentguard)
+### [SIEM Anomaly Detector →](https://github.com/infantesromeroadrian/SIEM-Anomaly-Detector-ML)
 
-A reproducible security assessment harness for agents, tools and MCP servers built with Strands Agents, the open-source agent SDK from AWS.
-`agent security` `MCP` `Strands Agents` `tool inventory`
+A small, reproducible study of unsupervised anomaly detection on web-server logs.
+`anomaly detection` `Isolation Forest` `cross-host evaluation`
 
-> **Scope:** early-stage harness (v0.0.0); contracts, tool inventory and a synthetic MCP server are in place, assessments are in progress.
-
-### [Neural Forge Lab →](https://github.com/infantesromeroadrian/neural-forge-lab)
-
-AI engineering foundations built from first principles, beginning with tensors, autodiff and explicit evidence gates.
-`autodiff` `transformer foundations` `evaluation gates`
-
-> **Scope:** active learning and engineering lab; the current implementation state is documented in the repository.
+> **Scope:** research prototype. A one-line volumetric rule matches the ML on the same host but does not transfer: 55.7 % false-positive rate on other hosts, against 0.02 % for Isolation Forest.
 
 ### [Spectra →](https://github.com/infantesromeroadrian/Spectra-LangGraph-AI-Red-Teaming-Orchestration)
 
@@ -96,12 +117,12 @@ A prototype combining multi-agent fraud analysis, RAG workflows and adversarial-
 
 I am deepening three connected tracks: adversarial security for tool-using AI agents, cloud and IAM architecture, and the low-level programming foundations needed to reason precisely about runtimes and failure modes.
 
-If you are working on secure AI systems, agent security or cloud architecture, the best starting points are [GenAI Seguro Lab](https://github.com/infantesromeroadrian/GenAI-Seguro-Lab) and [ARCA Agent](https://github.com/infantesromeroadrian/arca-agent).
+If you are working on secure AI systems, agent security or cloud architecture, the best starting points are [GenAI Seguro Lab](https://github.com/infantesromeroadrian/GenAI-Seguro-Lab) and [Strands AgentGuard](https://github.com/infantesromeroadrian/strands-agentguard).
 
 ---
 
 <p align="center">
-  <a href="https://adrian-portfolio-three-wheat.vercel.app">Portfolio</a> ·
+  <a href="https://adrian-infantes.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/adrianinfantes">Professional background</a> ·
   <a href="mailto:infantesromeroadrian@gmail.com">Get in touch</a>
 </p>
