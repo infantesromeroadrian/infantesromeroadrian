@@ -84,13 +84,6 @@ A deterministic clinical-safety gate and prompt-injection hardening for a demons
 
 > **Scope:** technical demo on synthetic data, not a medical product and not clinically validated. Injection attack success rate fell from 33.0 % to 9.1 %, and the pattern-based emergency gate still missed 28–42 % of emergencies on sets not used to tune it.
 
-### [ARCA Agent →](https://github.com/infantesromeroadrian/arca-agent)
-
-A generator that renders a portable agent harness (identity, subagents, skills, hooks and rules) for Claude Code, Codex CLI and OpenCode, so controls stay inspectable.
-`agent harnesses` `runtime policy` `hooks` `CI controls`
-
-> **Scope:** reusable engineering scaffold; effective security still depends on the host runtime and permissions.
-
 ### [SIEM Anomaly Detector →](https://github.com/infantesromeroadrian/SIEM-Anomaly-Detector-ML)
 
 A small, reproducible study of unsupervised anomaly detection on web-server logs.
