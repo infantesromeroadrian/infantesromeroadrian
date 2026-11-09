@@ -91,7 +91,7 @@ A small, reproducible study of unsupervised anomaly detection on web-server logs
 
 > **Scope:** research prototype. A one-line volumetric rule matches the ML on the same host but does not transfer: 55.7 % false-positive rate on other hosts, against 0.02 % for Isolation Forest.
 
-### [Spectra →](https://github.com/infantesromeroadrian/Spectra-LangGraph-AI-Red-Teaming-Orchestration)
+### [Spectra →](https://github.com/infantesromeroadrian/Spectra-Attack-Surface-Recon)
 
 Attack-surface reconnaissance combined with Neo4j graph modelling and LangGraph-assisted analysis.
 `authorized reconnaissance` `Neo4j` `LangGraph`
